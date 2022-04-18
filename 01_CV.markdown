@@ -1,0 +1,7 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
+<a href="matthiashaslberger.github.io/Academic CV.pdf" target="_blank">PDF</a>
