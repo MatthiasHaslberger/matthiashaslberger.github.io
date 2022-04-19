@@ -31,12 +31,12 @@ author_display: true
 # googlescholar_link: 
 uni_link: https://www.nuffield.ox.ac.uk/people/profiles/matthias-haslberger/
 
-#nav_ext_links:
-#  - name: CV
-#    url: https://lukaslehner.github.io/assets/lukas-lehner-cv.pdf
+nav_ext_links:
+  - name: CV
+    url: https://matthiashaslberger.github.io/assets/Academic_CV.pdf
 
 # Build settings
-theme: academic
+# theme: academic
 remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
