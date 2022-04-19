@@ -8,7 +8,7 @@ title: Matthias Haslberger
 
 ### Hi,
 
-I am a Postdoctoral Researcher at the University of Oxford, [Department of Politics and International Relations](https://www.politics.ox.ac.uk/){:target="_blank"} and a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/people/profiles/matthias-haslberger/){:target="_blank"}. I work on an ERC project on the politics of wealth inequality [(WEALTHPOL)](https://wealthpol.web.ox.ac.uk/about-project){:target="_blank"}. I previously completed my PhD at the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/people/matthias-haslberger){:target="_blank"}, University of Oxford.
+I am a Postdoctoral Researcher at the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/){:target="_blank"}, University of Oxford, and a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/people/profiles/matthias-haslberger/){:target="_blank"}. I work on an ERC project on the politics of wealth inequality [(WEALTHPOL)](https://wealthpol.web.ox.ac.uk/about-project){:target="_blank"}. I previously completed my PhD at the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/people/matthias-haslberger){:target="_blank"}, University of Oxford.
 
 My research interests centre around technological change and the labour market, economic inequalities, and the comparative study of education systems.
 
