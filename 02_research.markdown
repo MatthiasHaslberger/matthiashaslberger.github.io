@@ -35,6 +35,12 @@ It has long been established that education and income affect people's political
 
 **Center-right Parties and Post-War Secondary Education**, *forthcoming*, *Journal of Comparative Politics*. \
 (joint with Jane Gingrich, Anja Giudici, and Daniel McArthur) 
+<details>
+  <summary>Abstract</summary>
+  
+The massification of secondary schooling constitutes the key educational project of the first post-war period. However, the resulting educational structures differed in terms of streaming and standardisation. Despite their historical opposition, center-right parties contributed to shaping these reforms. They opposed standardisation because their distributive strategy rested on support from elites and middle classes. However, their stance on streaming varied. Centre-right parties supported streaming when they were linked to teachers and private providers who opposed comprehensive reforms, but supported de-streaming where such groups aligned with the left. The analysis suggests that common partisan distributive aims can materialize as varied public service reforms, due their intersection with the productive environment. This paper shows these outcomes by tracing reforms shaped by center-right parties in Bavaria, France, and Italy. 
+</details>
+<p> </p>  
 
 **[Routine-biased technological change does not always lead to polarisation: Evidence from 10 OECD countries, 1995–2013](https://www.sciencedirect.com/science/article/abs/pii/S0276562421000433?via%3Dihub)**, 2021, *Research in Social Stratification and Mobility* 74 (August 2021).
 <details>
