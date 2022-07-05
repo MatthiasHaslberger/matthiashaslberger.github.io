@@ -30,7 +30,7 @@ It has long been established that education and income affect people's political
   (joint with Mads Elkjaer)
 <p> </p>
 
-**Does Robotisation Increase Inequality between Manufacturing and Service Workers?** \
+**Does Robotisation Increase Inequality between Manufacturing and Service Workers?** 
 <details>
   <summary>Abstract</summary>
 
