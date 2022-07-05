@@ -8,10 +8,10 @@ title: Matthias Haslberger
 
 ### Hi,
 
-I am a Postdoctoral Researcher at the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/){:target="_blank"}, University of Oxford, and a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/people/profiles/matthias-haslberger/){:target="_blank"}. I work on an ERC project on the politics of wealth inequality [(WEALTHPOL)](https://wealthpol.web.ox.ac.uk/about-project){:target="_blank"}. I previously completed my PhD at the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/people/matthias-haslberger){:target="_blank"}, University of Oxford.
+I am a Postdoctoral Researcher at the School of Economics and Political Science at the University of St. Gallen. I mainly work on the [GOVPET](https://gce.unisg.ch/en/govpet){:target="_blank"} project on the governance of vocational and professional education and training. My other research interests centre around technological change and the labour market and the political causes and consequences of economic inequalities. 
 
-My research interests centre around technological change and the labour market, economic inequalities, and the comparative study of education systems.
+I hold a PhD from the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk){:target="_blank"} at the University of Oxford. Before moving to St. Gallen, I was a Postdoctoral Research Fellow at the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/){:target="_blank"}, University of Oxford, and a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/people/profiles/matthias-haslberger/){:target="_blank"} where I worked on an ERC project on the politics of wealth inequality [(WEALTHPOL)](https://wealthpol.web.ox.ac.uk/about-project){:target="_blank"}.
 
-My research has been published in *Comparative Politics*, *Research in Social Stratification and Mobility*, and *The Economic and Labour Relations Review*. 
+My research uses a wide range of predominantly quantitative methods and has been published in *Comparative Politics*, *Research in Social Stratification and Mobility*, and *The Economic and Labour Relations Review*. 
 
 If you are interested in my research, feel free to reach out via [email](mailto:matthias.haslberger@politics.ox.ac.uk) or [twitter](https://twitter.com/matt_haslberger){:target="_blank"}.
