@@ -14,4 +14,4 @@ I hold a PhD from the [Department of Social Policy and Intervention](https://www
 
 My research uses a wide range of predominantly quantitative methods and has been published in *Comparative Politics*, *Research in Social Stratification and Mobility*, and *The Economic and Labour Relations Review*. 
 
-If you are interested in my research, feel free to reach out via [email](mailto:matthias.haslberger@politics.ox.ac.uk) or [twitter](https://twitter.com/matt_haslberger){:target="_blank"}.
+If you are interested in my research, feel free to reach out via [email](mailto:matthias.haslberger@politics.ox.ac.uk) or [twitter](https://twitter.com/matt_haslberger){:target="_blank"}. 
