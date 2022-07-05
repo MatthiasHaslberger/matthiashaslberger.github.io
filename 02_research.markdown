@@ -13,7 +13,7 @@ permalink: /research/
 <details>
   <summary>Abstract</summary>
 
-Taxing inheritances is an effective way of abating rising wealth inequality, yet across advanced economies inheritance tax rates have dropped significantly in recent decades. Why is it so difficult to politically address rising wealth inequality? To help answer this question we study preferences over inheritance taxation using an original survey from England and Wales. We argue that it is difficult to tax inheritances for two reasons. First, many people don't have strong preferences regarding inheritance taxation, and the people who do, are more likely to come from higher socio-economic groups. There is thus a paradox in that the people who would stand to gain the most from taxing inheritances are those least likely to have an opinion on it. Second, rising house prices mean that more people expect to pass on larger inheritances to their children and that more people expect to inherit larger estates, putting downward pressure on inheritance taxes. Using non-experimental and experimental methods, we show that homeowners with more expensive houses, and people whose parents own more expensive properties, are less supportive of inheritance taxation. After empirically demonstrating our argument, we examine what happens when we randomly inform people about the level of wealth inequality locally and/or nationally. We find that our information treatment does not alter peoples’ preferences: preferences over inheritance taxation appear sticky, making it difficult to mobilize political support to address rising wealth inequality. The paper helps explain why addressing rising wealth inequality is politically difficult and thereby contributes to an increasingly salient debate.
+It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. In this paper, we argue that housing wealth performs an insurance function and is thereby associated with higher internal and external political efficacy. Using data from the UKHLS and a representative survey including an experiment that was administered in England and Wales, we document a sizeable and statistically significant positive association of housing wealth and perceived wealth with efficacy. However, this relationship is less robust to sample attrition than between efficacy and education or income. We furthermore investigate whether informing respondents about house price inequality affects their efficacy. Our information treatments show no effect on external efficacy, while the effect on internal efficacy depends on the respondent correctly understanding the information: comprehenders show higher efficacy and non-comprehenders exhibit lower efficacy, compared to the control group. This suggests that views of government responsiveness (external efficacy) are not easily manipulated, while for people's view of their own understanding of politics (internal efficacy), comprehension matters more than content of the information treatment, in accordance with self-efficacy theory. 
 </details>
 <p> </p>  
     
@@ -28,7 +28,15 @@ It has long been established that education and income affect people's political
     
 **The Structural Underpinnigs of the Decline of External Efficacy in the US** \
   (joint with Mads Elkjaer)
+<p> </p>
 
+**Does Robotisation Increase Inequality between Manufacturing and Service Workers?** \
+<details>
+  <summary>Abstract</summary>
+
+Robotisation is reshaping the political economy of labour markets and is attracting substantial interest from social scientists. Recent studies have found sometimes contradictory effects on aggregate employment and wages. Yet, the distributional consequences of robotisation at the occupational level remain under-theorised and under-investigated. In this paper, I use data from a panel of OECD countries from 1993 – 2016 to study whether robotisation has affected the relative wages of routine manufacturing occupations, which have been most exposed to robotisation, compared to other groups. I argue that, while robots reduce aggregate labour demand in exposed occupations, they enhance the productivity and hence wages of the remaining workers. However, my empirical analyses suggest that productivity gains from automation are not widely shared with workers. Instead, employment protection legislation appears to matter most for the relative fortunes of routine manufacturing and non-manufacturing workers.
+</details>
+<p> </p>
 
 ### Publications in Peer-Reviewed Journals
 <p> </p>
