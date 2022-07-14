@@ -50,7 +50,7 @@ In this project, I investigate the impact of the Covid-19 pandemic on the organi
 <p> </p>
 
 **Center-right Parties and Post-War Secondary Education**, *forthcoming*, *Journal of Comparative Politics*. \
-(joint with Jane Gingrich, Anja Giudici, and Daniel McArthur) 
+(joint with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
 <details>
   <summary>Abstract</summary>
   
