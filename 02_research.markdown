@@ -18,7 +18,7 @@ It has long been established that education and income affect people's political
 <p> </p>  
     
 **Housing Wealth, Information, and Political Efficacy** \
-  (joint with Mads Elkjaer and Ben Ansell) 
+  (joint with Mads Elkjaer and Ben Ansell, under review) 
 <details>
   <summary>Abstract</summary>
     
@@ -35,6 +35,14 @@ It has long been established that education and income affect people's political
   <summary>Abstract</summary>
 
 Robotisation is reshaping the political economy of labour markets and is attracting substantial interest from social scientists. Recent studies have found sometimes contradictory effects on aggregate employment and wages. Yet, the distributional consequences of robotisation at the occupational level remain under-theorised and under-investigated. In this paper, I use data from a panel of OECD countries from 1993 – 2016 to study whether robotisation has affected the relative wages of routine manufacturing occupations, which have been most exposed to robotisation, compared to other groups. I argue that, while robots reduce aggregate labour demand in exposed occupations, they enhance the productivity and hence wages of the remaining workers. However, my empirical analyses suggest that productivity gains from automation are not widely shared with workers. Instead, employment protection legislation appears to matter most for the relative fortunes of routine manufacturing and non-manufacturing workers.
+</details>
+<p> </p>
+
+**The Impact of Covid-19 on Occupational Tasks** 
+<details>
+  <summary>Abstract</summary>
+
+In this project, I investigate the impact of the Covid-19 pandemic on the organisation of work in Europe. Using newly available data from the European Working Conditions Survey (EWCS), I zoom in on how occupational task content has changed, with a particular focus on the routine intensity and complexity of occupations.  
 </details>
 <p> </p>
 
