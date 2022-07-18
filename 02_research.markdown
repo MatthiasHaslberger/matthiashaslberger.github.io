@@ -17,15 +17,6 @@ It has long been established that education and income affect people's political
 </details>
 <p> </p>  
     
-**Housing Wealth, Information, and Political Efficacy** \
-  (joint with Mads Elkjaer and Ben Ansell, under review) 
-<details>
-  <summary>Abstract</summary>
-    
-It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. This paper studies how home ownership and information about house price inequality affect respondents’ internal and external political efficacy, using a representative survey including an experiment that was administered in England and Wales in the summer of 2021. We find that housing wealth and perceived overall wealth are associated with increased internal and external efficacy. However, controlling for individual-level covariates, only perceived house value and overall wealth exert a statistically significant effect on political efficacy. Household income, education, and sex appear to be the more potent predictors of political efficacy. Furthermore, we see sizeable effects of our information treatments for internal efficacy, but not for external efficacy. In addition, the effect of receiving and understanding the treatments is positive, suggesting that informing people about the high levels of inequality in the housing market does not undermine efficacy in the way materialist theories of political behaviour and preference formation sometimes claim. Instead, we argue that comprehension rather than content of the information matters for internal efficacy. 
-</details>
-<p> </p>  
-    
 **The Structural Underpinnigs of the Decline of External Efficacy in the US** \
   (joint with Mads Elkjaer)
 <p> </p>
@@ -45,6 +36,17 @@ Robotisation is reshaping the political economy of labour markets and is attract
 In this project, I investigate the impact of the Covid-19 pandemic on the organisation of work in Europe. Using newly available data from the European Working Conditions Survey (EWCS), I zoom in on how occupational task content has changed, with a particular focus on the routine intensity and complexity of occupations.  
 </details>
 <p> </p>
+
+### Articles under Review
+
+**Housing Wealth, Information, and Political Efficacy** \
+  (joint with Mads Elkjaer and Ben Ansell, under review at *Socio-Economic Review*) 
+<details>
+  <summary>Abstract</summary>
+    
+It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. This paper studies how home ownership and information about house price inequality affect respondents’ internal and external political efficacy, using a representative survey including an experiment that was administered in England and Wales in the summer of 2021. We find that housing wealth and perceived overall wealth are associated with increased internal and external efficacy. However, controlling for individual-level covariates, only perceived house value and overall wealth exert a statistically significant effect on political efficacy. Household income, education, and sex appear to be the more potent predictors of political efficacy. Furthermore, we see sizeable effects of our information treatments for internal efficacy, but not for external efficacy. In addition, the effect of receiving and understanding the treatments is positive, suggesting that informing people about the high levels of inequality in the housing market does not undermine efficacy in the way materialist theories of political behaviour and preference formation sometimes claim. Instead, we argue that comprehension rather than content of the information matters for internal efficacy. 
+</details>
+<p> </p> 
 
 ### Publications in Peer-Reviewed Journals
 <p> </p>
