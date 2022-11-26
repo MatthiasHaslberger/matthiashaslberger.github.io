@@ -6,52 +6,11 @@ permalink: /research/
 ---
 
 ## Research
-### Work in Progress
-
-**Why Is It So Hard to Counteract Rising Wealth Inequality? Evidence from a Survey Experiment in England and Wales** \
-  (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
-<details>
-  <summary>Abstract</summary>
-
-It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. In this paper, we argue that housing wealth performs an insurance function and is thereby associated with higher internal and external political efficacy. Using data from the UKHLS and a representative survey including an experiment that was administered in England and Wales, we document a sizeable and statistically significant positive association of housing wealth and perceived wealth with efficacy. However, this relationship is less robust to sample attrition than between efficacy and education or income. We furthermore investigate whether informing respondents about house price inequality affects their efficacy. Our information treatments show no effect on external efficacy, while the effect on internal efficacy depends on the respondent correctly understanding the information: comprehenders show higher efficacy and non-comprehenders exhibit lower efficacy, compared to the control group. This suggests that views of government responsiveness (external efficacy) are not easily manipulated, while for people's view of their own understanding of politics (internal efficacy), comprehension matters more than content of the information treatment, in accordance with self-efficacy theory. 
-</details>
-<p> </p>  
-    
-**The Structural Underpinnigs of the Decline of External Efficacy in the US** \
-  (joint with Mads Elkjaer)
-<p> </p>
-
-**Does Robotisation Increase Inequality between Manufacturing and Service Workers?** 
-<details>
-  <summary>Abstract</summary>
-
-Robotisation is reshaping the political economy of labour markets and is attracting substantial interest from social scientists. Recent studies have found sometimes contradictory effects on aggregate employment and wages. Yet, the distributional consequences of robotisation at the occupational level remain under-theorised and under-investigated. In this paper, I use data from a panel of OECD countries from 1993 – 2016 to study whether robotisation has affected the relative wages of routine manufacturing occupations, which have been most exposed to robotisation, compared to other groups. I argue that, while robots reduce aggregate labour demand in exposed occupations, they enhance the productivity and hence wages of the remaining workers. However, my empirical analyses suggest that productivity gains from automation are not widely shared with workers. Instead, employment protection legislation appears to matter most for the relative fortunes of routine manufacturing and non-manufacturing workers.
-</details>
-<p> </p>
-
-**The Impact of Covid-19 on Occupational Tasks** 
-<details>
-  <summary>Abstract</summary>
-
-In this project, I investigate the impact of the Covid-19 pandemic on the organisation of work in Europe. Using newly available data from the European Working Conditions Survey (EWCS), I zoom in on how occupational task content has changed, with a particular focus on the routine intensity and complexity of occupations.  
-</details>
-<p> </p>
-
-### Articles under Review
-
-**Housing Wealth, Information, and Political Efficacy** \
-  (joint with Mads Elkjaer and Ben Ansell, under review at *Socio-Economic Review*) 
-<details>
-  <summary>Abstract</summary>
-    
-It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. This paper studies how home ownership and information about house price inequality affect respondents’ internal and external political efficacy, using a representative survey including an experiment that was administered in England and Wales in the summer of 2021. We find that housing wealth and perceived overall wealth are associated with increased internal and external efficacy. However, controlling for individual-level covariates, only perceived house value and overall wealth exert a statistically significant effect on political efficacy. Household income, education, and sex appear to be the more potent predictors of political efficacy. Furthermore, we see sizeable effects of our information treatments for internal efficacy, but not for external efficacy. In addition, the effect of receiving and understanding the treatments is positive, suggesting that informing people about the high levels of inequality in the housing market does not undermine efficacy in the way materialist theories of political behaviour and preference formation sometimes claim. Instead, we argue that comprehension rather than content of the information matters for internal efficacy. 
-</details>
-<p> </p> 
 
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
-**Center-right Parties and Post-War Secondary Education**, *forthcoming*, *Journal of Comparative Politics*. \
+**[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186)**, *forthcoming*, *Comparative Politics*. \
 (joint with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
 <details>
   <summary>Abstract</summary>
@@ -74,5 +33,66 @@ This article deals with a central paradox in the occupational polarisation liter
   <summary>Abstract</summary>
 
 Which tasks workers perform on their jobs is critical for how technological change plays out in the labour market. This crucial insight sparked a large literature on routine-biased technological change which argues that routine occupations with a high share of repetitive and codifiable tasks are at risk of being automated. This paper makes the case for rethinking how we operationalise occupational task content. Based on survey data from 27 European countries between 2000 and 2015, I construct novel measures of routine task intensity and task complexity at the ISCO-88 2-digit level. Comparing them to existing operationalisations, I show that the proposed indices lead to improvements in several critical areas. The task dimensions have a straightforward theoretical interpretation as they capture the essence of the routine-bias and skill-bias arguments and are operationalised to better align theory and measurement. Furthermore, my indices create new opportunities for research by allowing researchers to analyse within-occupation change and country-differences in occupational task content. My paper can therefore contribute to a more sociologically informed understanding of technological change. The indices will benefit both sociologists and labour economists in investigating the nature of recent employment trends in Europe and formulating policies to deal with these challenges.
+</details>
+<p> </p>
+
+
+### Working Papers
+
+**Why Is It So Hard to Counteract Rising Wealth Inequality? Evidence from a Survey Experiment in England and Wales** \
+  (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
+<details>
+  <summary>Abstract</summary>
+
+It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. In this paper, we argue that housing wealth performs an insurance function and is thereby associated with higher internal and external political efficacy. Using data from the UKHLS and a representative survey including an experiment that was administered in England and Wales, we document a sizeable and statistically significant positive association of housing wealth and perceived wealth with efficacy. However, this relationship is less robust to sample attrition than between efficacy and education or income. We furthermore investigate whether informing respondents about house price inequality affects their efficacy. Our information treatments show no effect on external efficacy, while the effect on internal efficacy depends on the respondent correctly understanding the information: comprehenders show higher efficacy and non-comprehenders exhibit lower efficacy, compared to the control group. This suggests that views of government responsiveness (external efficacy) are not easily manipulated, while for people's view of their own understanding of politics (internal efficacy), comprehension matters more than content of the information treatment, in accordance with self-efficacy theory. 
+</details>
+<p> </p> 
+
+**Housing Wealth and Political Efficacy** \
+  (joint with Mads Elkjaer and Ben Ansell) 
+<details>
+  <summary>Abstract</summary>
+    
+It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. This paper studies how home ownership and information about house price inequality affect respondents’ internal and external political efficacy, using a representative survey including an experiment that was administered in England and Wales in the summer of 2021. We find that housing wealth and perceived overall wealth are associated with increased internal and external efficacy. However, controlling for individual-level covariates, only perceived house value and overall wealth exert a statistically significant effect on political efficacy. Household income, education, and sex appear to be the more potent predictors of political efficacy. Furthermore, we see sizeable effects of our information treatments for internal efficacy, but not for external efficacy. In addition, the effect of receiving and understanding the treatments is positive, suggesting that informing people about the high levels of inequality in the housing market does not undermine efficacy in the way materialist theories of political behaviour and preference formation sometimes claim. Instead, we argue that comprehension rather than content of the information matters for internal efficacy. 
+</details>
+<p> </p> 
+
+**(Mis)Perceptions of Inequality, Wealth, and Tax Preferences Across Europe** \
+  (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup)
+<details>
+  <summary>Abstract</summary>
+    
+The interplay of perceptions of inequality and wealth in shaping tax preferences is poorly understood, especially in a cross-national perspective. In this paper we present findings from a novel survey experiment in 7 European countries. We study how people’s estimate of the top-10 percent wealth and income share and their own perceived position in the wealth and income distribution, as well as their housing wealth – which accounts for the bulk of household wealth for most people – shapes preferences over income, inheritance, wealth, and capital gains taxation. We find, first of all, that people are poorly informed about inequality. On average, respondents substantially overestimate income inequality, although they have fairly accurate perceptions of wealth inequality. However, based on their perceptions and their material circumstances, people formulate rational tax preferences: Higher perceived inequalities and a lower perceived position in the social hierarchy predict support for more progressive taxes. People who own more valuable houses are much less likely to support wealth and capital gains taxes, and strongly support cuts to inheritance taxes and, to a lesser extent, income taxes. Using a forced-choice conjoint experiment, we find that when people trade off income and inheritance taxation, keeping the income tax burden low takes precedence even for individuals who stand to pass on or receive a substantial inheritance. Somewhat surprisingly, then, providing information about income and/or wealth inequality that could correct people’s misperceptions has little impact on their preferences. Thus, this paper adds to our knowledge on the political economy of taxation in Europe.
+</details>
+<p> </p>
+
+ 
+### Work in Progress
+
+**Vocational Training, Automation Risk, and Demand for Unemployment Support** \
+  (joint with Patrick Emmenegger and Niccolo Durazzi)
+<p> </p>
+    
+**The Effect of Firm-Based VET on Youth Unemployment and Wage Inequality in the Knowledge Economy** \
+  (joint with Patrick Emmenegger)
+<p> </p>
+    
+**The Structural Underpinnigs of the Decline of External Efficacy in the US** \
+  (joint with Mads Elkjaer)
+<p> </p>
+
+**Does Robotisation Increase Inequality between Manufacturing and Service Workers?** 
+<details>
+  <summary>Abstract</summary>
+
+Robotisation is reshaping the political economy of labour markets and is attracting substantial interest from social scientists. Recent studies have found sometimes contradictory effects on aggregate employment and wages. Yet, the distributional consequences of robotisation at the occupational level remain under-theorised and under-investigated. In this paper, I use data from a panel of OECD countries from 1993 – 2016 to study whether robotisation has affected the relative wages of routine manufacturing occupations, which have been most exposed to robotisation, compared to other groups. I argue that, while robots reduce aggregate labour demand in exposed occupations, they enhance the productivity and hence wages of the remaining workers. However, my empirical analyses suggest that productivity gains from automation are not widely shared with workers. Instead, employment protection legislation appears to matter most for the relative fortunes of routine manufacturing and non-manufacturing workers.
+</details>
+<p> </p>
+
+**The Impact of Covid-19 on Occupational Tasks** 
+<details>
+  <summary>Abstract</summary>
+
+In this project, I investigate the impact of the Covid-19 pandemic on the organisation of work in Europe. Using newly available data from the European Working Conditions Survey (EWCS), I zoom in on how occupational task content has changed, with a particular focus on the routine intensity and complexity of occupations.  
 </details>
 <p> </p>
