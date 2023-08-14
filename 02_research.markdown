@@ -10,7 +10,7 @@ permalink: /research/
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
-**[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186)**, *forthcoming*, *Comparative Politics*. \
+**[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186)**, 2023, *Comparative Politics* 55(2), 193-218. \
 (joint with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
 <details>
   <summary>Abstract</summary>
@@ -66,15 +66,28 @@ The interplay of perceptions of inequality and wealth in shaping tax preferences
 </details>
 <p> </p>
 
- 
-### Work in Progress
-
-**Vocational Training, Automation Risk, and Demand for Unemployment Support** \
+**The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
   (joint with Patrick Emmenegger and Niccolo Durazzi)
+<details>
+  <summary>Abstract</summary>
+    
+How does technological change affect social policy preferences? We advance the lively debate surrounding this question by focusing on the moderating role of education and training institutions. In particular, we develop a theoretical argument that foregrounds the role of dual VET systems. While existing literature would lead us to expect that dual VET systems increase demand for compensatory social policy and magnify the effect of automation risk on such demand, we contend that the opposite holds true. We hypothesize that dual VET systems weaken demand for compensatory social policy and dampen the effect of automation risk on demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) skill certification; (ii) material self-interest; and (iii) workplace socialization. Analyzing cross-national individual data from ESS, fine-grained data on individual educational background from the German ESS module as well as national-level OECD data on education and training systems, we find strong evidence in favor of our argument. The paper does not only advance the debate on social policy preferences in the age of automation but it also sheds new light on an old debate, namely the relationship between skill specificity and social policy preferences.
+</details>  
 <p> </p>
     
-**The Effect of Firm-Based VET on Youth Unemployment and Wage Inequality in the Knowledge Economy** \
+**Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy** \
   (joint with Patrick Emmenegger)
+<details>
+  <summary>Abstract</summary>
+    
+Dual vocational education and training (VET) systems are said to have beneficial economic effects. For instance, some studies have established a link between dual VET and lower wage inequality. Yet, recent contributions suggest that the technological and organizational changes associated with the rise of the knowledge economy undermine the beneficial effects of dual VET. Most notably, employment in routine-task-intensive occupations is declining due to automation, whereas technological change increases demand for non-routine cognitive tasks. For such high-end jobs, college-educated workers with general skills are argued to be better suited. This paper provides the first evidence on the effect of dual VET on wage inequality in mature knowledge economies. We have assembled a new panel data set for 37 advanced economies from 1996 to 2020. We find that dual VET remains associated with lower levels of wage inequality throughout the entire period. The rise of the knowledge economy is positively associated with wage inequality at low levels of dual VET. However, where the dual VET share is high, the rise of the knowledge economy further reduces wage inequality. Our paper significantly extends existing research on the effects of dual VET by explicitly theorizing and modelling its interaction with the knowledge economy. Contrary to the fears often espoused in the literature, we find no evidence that the knowledge economy undermines the beneficial effects of dual VET. 
+</details>
+<p> </p>
+
+### Work in Progress
+
+**Productivity and Distributional Implications of Artificial Intelligence: Experimental Evidence** \
+  (joint with Jane Gingrich and Jasmine Bhatia)
 <p> </p>
     
 **The Structural Underpinnigs of the Decline of External Efficacy in the US** \
