@@ -39,8 +39,8 @@ Which tasks workers perform on their jobs is critical for how technological chan
 
 ### Working Papers
 
-**Why Is It So Hard to Counteract Rising Wealth Inequality? Evidence from a Survey Experiment in England and Wales** \
-  (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
+**Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom** \
+  (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; under review at **World Politics**) 
 <details>
   <summary>Abstract</summary>
 
@@ -48,21 +48,21 @@ It has long been established that education and income affect people's political
 </details>
 <p> </p> 
 
-**Housing Wealth and Political Efficacy** \
+**[Housing and Political Efficacy](https://drive.google.com/file/d/1wZDZXPk8blcdAYdqBKSdhDkLNtHOXtXk/view?usp=drive_link)** \
   (joint with Mads Elkjaer and Ben Ansell) 
 <details>
   <summary>Abstract</summary>
     
-It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. This paper studies how home ownership and information about house price inequality affect respondents’ internal and external political efficacy, using a representative survey including an experiment that was administered in England and Wales in the summer of 2021. We find that housing wealth and perceived overall wealth are associated with increased internal and external efficacy. However, controlling for individual-level covariates, only perceived house value and overall wealth exert a statistically significant effect on political efficacy. Household income, education, and sex appear to be the more potent predictors of political efficacy. Furthermore, we see sizeable effects of our information treatments for internal efficacy, but not for external efficacy. In addition, the effect of receiving and understanding the treatments is positive, suggesting that informing people about the high levels of inequality in the housing market does not undermine efficacy in the way materialist theories of political behaviour and preference formation sometimes claim. Instead, we argue that comprehension rather than content of the information matters for internal efficacy. 
+It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth - in particular, housing wealth - has thus far been ignored in this literature. We theorise that housing performs several functions that increase political efficacy and test our arguments using data from three large representative surveys administered in the UK. We first argue that housing wealth provides a form of "self-insurance", which on the one hand facilitates civic engagement, and on the other hand raises people's stakes in the political process. In line with this argument, we find that homeowners, owners of more valuable houses, owners who have paid off their mortgage, and individuals who believe themselves to be higher in the housing wealth distribution all exhibit higher efficacy. Based on the literature on status expectations and the politics of resentment, we furthermore investigate whether intergenerational housing mobility affects political efficacy. However, we find no evidence that upward or downward intergenerational housing mobility affects efficacy beyond the first-order effect of homeownership. Finally, we study whether stronger local ties explain the higher efficacy of homeowners. Again, however, we find no evidence that length of tenancy in the area affects homeowners and renters differently. The results of this study show that housing - and by extension wealth more generally - constitutes a hitherto neglected but crucial determinant of political efficacy, chiefly by providing security which enables and incentivises engagement.
 </details>
 <p> </p> 
 
-**(Mis)Perceptions of Inequality, Wealth, and Tax Preferences Across Europe** \
+**Housing Wealth and Tax Preferences Across Europe** \
   (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup)
 <details>
   <summary>Abstract</summary>
     
-The interplay of perceptions of inequality and wealth in shaping tax preferences is poorly understood, especially in a cross-national perspective. In this paper we present findings from a novel survey experiment in 7 European countries. We study how people’s estimate of the top-10 percent wealth and income share and their own perceived position in the wealth and income distribution, as well as their housing wealth – which accounts for the bulk of household wealth for most people – shapes preferences over income, inheritance, wealth, and capital gains taxation. We find, first of all, that people are poorly informed about inequality. On average, respondents substantially overestimate income inequality, although they have fairly accurate perceptions of wealth inequality. However, based on their perceptions and their material circumstances, people formulate rational tax preferences: Higher perceived inequalities and a lower perceived position in the social hierarchy predict support for more progressive taxes. People who own more valuable houses are much less likely to support wealth and capital gains taxes, and strongly support cuts to inheritance taxes and, to a lesser extent, income taxes. Using a forced-choice conjoint experiment, we find that when people trade off income and inheritance taxation, keeping the income tax burden low takes precedence even for individuals who stand to pass on or receive a substantial inheritance. Somewhat surprisingly, then, providing information about income and/or wealth inequality that could correct people’s misperceptions has little impact on their preferences. Thus, this paper adds to our knowledge on the political economy of taxation in Europe.
+Despite being much more unequally distributed than income, wealth as a determinant of political preferences has received comparatively little attention. We address this gap by studying how housing wealth – the bulk of private wealth for most ordinary citizens – affects attitudes towards the taxation of income, inheritance, capital gains, and wealth. We leverage data from 7 European countries from an original survey including a conjoint and an information experiment. We find that compared to renters, homeowners and children of homeowners prefer less progressive taxation of wealth and inheritances. We can further show that this effect is driven by homeowners who own their house outright, while homeowners with a mortgage have more moderate preferences. People who believe they are wealthy relative to others are likewise less supportive of progressive taxation. This supports a view of homeowners as rational economic actors who are particularly opposed to taxes that predominantly affect them. In the conjoint, we find that people favour progressive but overall lower taxes. Furthermore, when forced to choose between joint income and inheritance tax schedules, income tax takes precedence, even for homeowners. Overall, this paper provides a comprehensive investigation of housing wealth and tax preferences in Europe and contributes to an increasingly salient public and academic debate.
 </details>
 <p> </p>
 
@@ -88,6 +88,11 @@ Dual vocational education and training (VET) systems are said to have beneficial
 
 **Productivity and Distributional Implications of Artificial Intelligence: Experimental Evidence** \
   (joint with Jane Gingrich and Jasmine Bhatia)
+<details>
+  <summary>Abstract</summary>
+
+The proliferation of generative AI in the workplace is likely to produce winners and losers. In this innovative paper, we offer evidence from a representative survey experiment in the United Kingdom, showing that productivity gains are substantial and fairly evenly distributed across demographic groups. Thus, our results suggest that generative AI is neither a great equaliser nor likely to exacerbate inequality. The effects of AI exposure on regulatory and social policy preferences appear to be relatively minor. This paper produces important first evidence on the likely implications of AI for inequality and political behaviour.
+</details>
 <p> </p>
     
 **The Structural Underpinnigs of the Decline of External Efficacy in the US** \
