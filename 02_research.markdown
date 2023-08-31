@@ -28,7 +28,7 @@ This article deals with a central paradox in the occupational polarisation liter
 <p> </p>  
 
 **[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095)**, 2021, *The Economic and Labour Relations Review* 33(1), 178-199. \
-[replication data](https://doi.org/10.7910/DVN/JABYD7)
+[Replication Data](https://doi.org/10.7910/DVN/JABYD7){:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
