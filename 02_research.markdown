@@ -39,7 +39,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 
 ### Working Papers
 
-**Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom** \
+**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://drive.google.com/file/d/1ZqDmyZa1O3iU1MJzdqcyjFuNY7CCoBLG/view?usp=drive_link)** \
   (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; under review at **World Politics**) 
 <details>
   <summary>Abstract</summary>
@@ -57,7 +57,7 @@ It has long been established that education and income affect people's political
 </details>
 <p> </p> 
 
-**Housing Wealth and Tax Preferences Across Europe** \
+**[Housing Wealth and Tax Preferences Across Europe](https://drive.google.com/file/d/1gMqCVzcsVe5rcgMkyHRm9j6W0_dL6vdd/view?usp=drive_link)** \
   (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup)
 <details>
   <summary>Abstract</summary>
