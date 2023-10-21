@@ -40,7 +40,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 ### Working Papers
 
 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://drive.google.com/file/d/1ZqDmyZa1O3iU1MJzdqcyjFuNY7CCoBLG/view?usp=drive_link)** \
-  (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; under review at **World Politics**) 
+  (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; R&R at **World Politics**) 
 <details>
   <summary>Abstract</summary>
 
@@ -49,7 +49,7 @@ It has long been established that education and income affect people's political
 <p> </p> 
 
 **[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://drive.google.com/file/d/1q_5Ir1ZyPv084ZjUseCaMssvhBE-j3TY/view?usp=sharing)** \
-  (joint with Jane Gingrich and Jasmine Bhatia)
+  (joint with Jane Gingrich and Jasmine Bhatia; pre-print available on SSRN)
 <details>
   <summary>Abstract</summary>
 
