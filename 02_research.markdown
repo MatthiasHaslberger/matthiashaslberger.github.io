@@ -48,7 +48,7 @@ It has long been established that education and income affect people's political
 </details>
 <p> </p> 
 
-**[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://drive.google.com/file/d/1q_5Ir1ZyPv084ZjUseCaMssvhBE-j3TY/view?usp=sharing)** \
+**[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
   (joint with Jane Gingrich and Jasmine Bhatia; pre-print on **SSRN**)
 <details>
   <summary>Abstract</summary>
