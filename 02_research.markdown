@@ -66,7 +66,7 @@ Dual vocational education and training (VET) systems are said to have positive e
 </details>
 <p> </p>
 
-**[Housing and Political Efficacy](https://matthiashaslberger.github.io/paper/housing_efficacy.pdf)** \
+**[Housing and Political Efficacy](https://matthiashaslberger.github.io/papers/housing_efficacy.pdf)** \
   (with Mads Elkjaer and Ben Ansell) 
 <details>
   <summary>Abstract</summary>
