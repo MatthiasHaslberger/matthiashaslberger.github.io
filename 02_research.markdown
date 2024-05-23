@@ -11,7 +11,7 @@ permalink: /research/
 <p> </p>
 
 **[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186)**, 2023, *Comparative Politics* 55(2), 193-218. \
-(joint with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
+(with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
 <details>
   <summary>Abstract</summary>
   
@@ -40,7 +40,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 ### Working Papers
 
 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://drive.google.com/file/d/1ZqDmyZa1O3iU1MJzdqcyjFuNY7CCoBLG/view?usp=drive_link)** \
-  (joint with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; R&R at **World Politics**) 
+  (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; R&R at **World Politics**) 
 <details>
   <summary>Abstract</summary>
 
@@ -49,7 +49,7 @@ It has long been established that education and income affect people's political
 <p> </p> 
 
 **[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
-  (joint with Jane Gingrich and Jasmine Bhatia; pre-print on **SSRN**)
+  (with Jane Gingrich and Jasmine Bhatia; pre-print on **SSRN**)
 <details>
   <summary>Abstract</summary>
 
@@ -57,8 +57,17 @@ Generative artificial intelligence is already transforming how people work. Ther
 </details>
 <p> </p>
 
+**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://drive.google.com/file/d/1QnPLs9VSeiP09JqmRYyQB2iV8bHnupFo/view?usp=sharing)** \
+  (with Patrick Emmenegger)
+<details>
+  <summary>Abstract</summary>
+    
+Dual vocational education and training (VET) systems are said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy undermines these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the effect of dual VET on wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET remains associated with lower levels of wage inequality throughout the entire period. The rise of the knowledge economy is positively associated with wage inequality at low levels of dual VET. However, where the dual VET share is high, the rise of the knowledge economy further reduces wage inequality. Contrary to the fears often espoused in the literature, we find no evidence that the knowledge economy undermines the positive effects of dual VET.
+</details>
+<p> </p>
+
 **[Housing and Political Efficacy](https://drive.google.com/file/d/1wZDZXPk8blcdAYdqBKSdhDkLNtHOXtXk/view?usp=drive_link)** \
-  (joint with Mads Elkjaer and Ben Ansell) 
+  (with Mads Elkjaer and Ben Ansell) 
 <details>
   <summary>Abstract</summary>
     
@@ -67,25 +76,16 @@ It has long been established that education and income affect people's political
 <p> </p> 
 
 **[Housing Wealth and Tax Preferences Across Europe](https://drive.google.com/file/d/1gMqCVzcsVe5rcgMkyHRm9j6W0_dL6vdd/view?usp=drive_link)** \
-  (joint with Ben Ansell, Mads Elkjaer, and Jacob Nyrup)
+  (with Ben Ansell and Mads Elkjaer)
 <details>
   <summary>Abstract</summary>
     
 Despite being much more unequally distributed than income, wealth as a determinant of political preferences has received comparatively little attention. We address this gap by studying how housing wealth – the bulk of private wealth for most ordinary citizens – affects attitudes towards the taxation of income, inheritance, capital gains, and wealth. We leverage data from 7 European countries from an original survey including a conjoint and an information experiment. We find that compared to renters, homeowners and children of homeowners prefer less progressive taxation of wealth and inheritances. We can further show that this effect is driven by homeowners who own their house outright, while homeowners with a mortgage have more moderate preferences. People who believe they are wealthy relative to others are likewise less supportive of progressive taxation. This supports a view of homeowners as rational economic actors who are particularly opposed to taxes that predominantly affect them. In the conjoint, we find that people favour progressive but overall lower taxes. Furthermore, when forced to choose between joint income and inheritance tax schedules, income tax takes precedence, even for homeowners. Overall, this paper provides a comprehensive investigation of housing wealth and tax preferences in Europe and contributes to an increasingly salient public and academic debate.
 </details>
 <p> </p>
-    
-**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://drive.google.com/file/d/1QnPLs9VSeiP09JqmRYyQB2iV8bHnupFo/view?usp=sharing)** \
-  (joint with Patrick Emmenegger)
-<details>
-  <summary>Abstract</summary>
-    
-Dual vocational education and training (VET) systems are said to have beneficial economic effects. For instance, some studies have established a link between dual VET and lower wage inequality. Yet, recent contributions suggest that the technological and organizational changes associated with the rise of the knowledge economy undermine the beneficial effects of dual VET. Most notably, employment in routine-task-intensive occupations is declining due to automation, whereas technological change increases demand for non-routine cognitive tasks. For such high-end jobs, college-educated workers with general skills are argued to be better suited. This paper provides the first evidence on the effect of dual VET on wage inequality in mature knowledge economies. We have assembled a new panel data set for 37 advanced economies from 1996 to 2020. We find that dual VET remains associated with lower levels of wage inequality throughout the entire period. The rise of the knowledge economy is positively associated with wage inequality at low levels of dual VET. However, where the dual VET share is high, the rise of the knowledge economy further reduces wage inequality. Our paper significantly extends existing research on the effects of dual VET by explicitly theorizing and modelling its interaction with the knowledge economy. Contrary to the fears often espoused in the literature, we find no evidence that the knowledge economy undermines the beneficial effects of dual VET. 
-</details>
-<p> </p>
 
 **The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
-  (joint with Patrick Emmenegger and Niccolo Durazzi)
+  (with Patrick Emmenegger and Niccolo Durazzi)
 <details>
   <summary>Abstract</summary>
     
@@ -95,22 +95,29 @@ How does technological change affect social policy preferences? We advance the l
 
 ### Work in Progress
 
-**The Structural Underpinnigs of the Decline of External Efficacy in the US** \
-  (joint with Mads Elkjaer)
-<p> </p>
-
-**Does Robotisation Increase Inequality between Manufacturing and Service Workers?** 
+**Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences** \
+  (with Jasmine Bhatia and Jane Gingrich)
 <details>
   <summary>Abstract</summary>
 
-Robotisation is reshaping the political economy of labour markets and is attracting substantial interest from social scientists. Recent studies have found sometimes contradictory effects on aggregate employment and wages. Yet, the distributional consequences of robotisation at the occupational level remain under-theorised and under-investigated. In this paper, I use data from a panel of OECD countries from 1993 – 2016 to study whether robotisation has affected the relative wages of routine manufacturing occupations, which have been most exposed to robotisation, compared to other groups. I argue that, while robots reduce aggregate labour demand in exposed occupations, they enhance the productivity and hence wages of the remaining workers. However, my empirical analyses suggest that productivity gains from automation are not widely shared with workers. Instead, employment protection legislation appears to matter most for the relative fortunes of routine manufacturing and non-manufacturing workers.
+Generative artificial intelligence is beginning to transform the world of work, reconfiguring economic and political inequalities in the process. Based on a pre-registered online experiment with a near-representative sample of 1,041 working-age adults from the UK we show that direct exposure to generative AI reduces worries about job prospects and leads to a more positive attitude towards the technology. We find that gender, education, and performance moderate the effect. AI use leads to more progressive social policy preferences, including support for retraining measures. An analysis of open-ended questions shows thoughtful engagement with the implications of AI and few signs of partisan cueing. This letter provides a first big-picture investigation of the political implications of generative AI and outlines the contours of a research agenda for scholars interested in the latest iteration of technological change.
 </details>
 <p> </p>
 
-**The Impact of Covid-19 on Occupational Tasks** 
+**Striking the Balance? Firms’ Training Strategies in Response to Generative AI** 
 <details>
   <summary>Abstract</summary>
 
-In this project, I investigate the impact of the Covid-19 pandemic on the organisation of work in Europe. Using newly available data from the European Working Conditions Survey (EWCS), I zoom in on how occupational task content has changed, with a particular focus on the routine intensity and complexity of occupations.  
+Practical learning from experts is key to the mastery of almost any job. It constitutes the backbone of collective skill formation systems and is equally crucial in systems emphasising on-the-job learning. Yet, generative AI threatens the complementary relationship between master and apprentice, senior and junior worker: tasks performed by entry-level workers with limited experience tend to be particularly exposed to substitution by AI. If these positions are replaced, skill development is impeded and overall workforce skill levels are likely to suffer in the medium- to long-term. This creates a dilemma for profit-maximising firms: automation may boost short-term productivity at the expense of long-term productivity growth. This paper studies how firms in Germany and the US navigate this challenge. Building on the Varieties of Capitalism literature, I argue that differences such as higher employee turnover and a greater emphasis on shareholder value incentivise American firms to prioritise AI adoption, while German firms maintain a stronger focus on training younger workers even if it means foregoing short-term gains. I test this argument empirically using data on job openings in sectors that are exposed to or sheltered from AI. This allows me to trace differential rates of change between the groups of occupations and across countries in a) the balance between junior and senior vacancies and b) the task composition of junior roles. Empirical support for my argument highlights a hitherto underappreciated potential long-term consequence of generative AI that may undermine its productivity-enhancing effects.
+
+</details>
+<p> </p>
+
+**The Attractiveness of Vocational Education Across Europe** \
+  (with Annatina Aerne, Giuliano Bonoli, Patrick Emmenegger, Cecilia Ivardi, Scherwin Bajka, and Anna Wilson)
+<details>
+  <summary>Abstract</summary>
+
+Based on an original survey in 7 European countries, we aim to provide a comprehensive analysis of the determinants of the attractiveness of vocational education and training systems. 
 </details>
 <p> </p>
