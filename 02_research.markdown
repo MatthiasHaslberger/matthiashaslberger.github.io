@@ -66,7 +66,7 @@ Dual vocational education and training (VET) systems are said to have positive e
 </details>
 <p> </p>
 
-**[Housing and Political Efficacy](https://drive.google.com/file/d/1wZDZXPk8blcdAYdqBKSdhDkLNtHOXtXk/view?usp=drive_link)** \
+**[Housing and Political Efficacy](https://matthiashaslberger.github.io/paper/housing_efficacy.pdf)** \
   (with Mads Elkjaer and Ben Ansell) 
 <details>
   <summary>Abstract</summary>
@@ -75,7 +75,7 @@ It has long been established that education and income affect people's political
 </details>
 <p> </p> 
 
-**[Housing Wealth and Tax Preferences Across Europe](https://drive.google.com/file/d/1gMqCVzcsVe5rcgMkyHRm9j6W0_dL6vdd/view?usp=drive_link)** \
+**[Housing Wealth and Tax Preferences Across Europe](https://matthiashaslberger.github.io/papers/housing_taxes.pdf)** \
   (with Ben Ansell and Mads Elkjaer)
 <details>
   <summary>Abstract</summary>
@@ -84,7 +84,7 @@ Despite being much more unequally distributed than income, wealth as a determina
 </details>
 <p> </p>
 
-**The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
+**[The Missing Link: Technological Change, Dual VET, and Social Policy Preferences](https://matthiashaslberger.github.io/papers/VET_and_LMP_Preferences.pdf)** \
   (with Patrick Emmenegger and Niccolo Durazzi)
 <details>
   <summary>Abstract</summary>
