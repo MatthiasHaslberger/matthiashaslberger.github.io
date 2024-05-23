@@ -39,7 +39,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 
 ### Working Papers
 
-**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://drive.google.com/file/d/1ZqDmyZa1O3iU1MJzdqcyjFuNY7CCoBLG/view?usp=drive_link)** \
+**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/Papers/Taxing_Inheritances_rev.pdf)** \
   (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; R&R at **World Politics**) 
 <details>
   <summary>Abstract</summary>
@@ -57,7 +57,7 @@ Generative artificial intelligence is already transforming how people work. Ther
 </details>
 <p> </p>
 
-**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://drive.google.com/file/d/1QnPLs9VSeiP09JqmRYyQB2iV8bHnupFo/view?usp=sharing)** \
+**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/Papers/VET_KE.pdf)** \
   (with Patrick Emmenegger)
 <details>
   <summary>Abstract</summary>
