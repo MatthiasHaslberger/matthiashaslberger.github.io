@@ -40,7 +40,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 ### Working Papers
 
 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/papers/Taxing_Inheritances_rev.pdf)** \
-  (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; R&R at **World Politics**) 
+  (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; conditionally accepted at **World Politics**) 
 <details>
   <summary>Abstract</summary>
 
@@ -58,7 +58,7 @@ Generative artificial intelligence is already transforming how people work. Ther
 <p> </p>
 
 **[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/VET_KE_SER.pdf)** \
-  (with Patrick Emmenegger)
+  (with Patrick Emmenegger; under review at **Socio-Economic Review**)
 <details>
   <summary>Abstract</summary>
     
@@ -100,7 +100,7 @@ How does technological change affect social policy preferences? We advance the l
 <details>
   <summary>Abstract</summary>
 
-Generative artificial intelligence is beginning to transform the world of work, reconfiguring economic and political inequalities in the process. Based on a pre-registered online experiment with a near-representative sample of 1,041 working-age adults from the UK we show that direct exposure to generative AI reduces worries about job prospects and leads to a more positive attitude towards the technology. We find that gender, education, and performance moderate the effect. AI use leads to more progressive social policy preferences, including support for retraining measures. An analysis of open-ended questions shows thoughtful engagement with the implications of AI and few signs of partisan cueing. This letter provides a first big-picture investigation of the political implications of generative AI and outlines the contours of a research agenda for scholars interested in the latest iteration of technological change.
+Scholars interested in the effect of automation on policy preferences have commonly argued that (perceived) risk predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a near-representative sample of 1,041 working-age adults from the UK we show that direct exposure to generative AI in text-based tasks does not increase worries about job prospects and leads to a more positive attitude towards the technology. Despite this, treated respondents show greater support for progressive social policy and place themselves politically further left, indicating that sociotropic preferences dominate self-interest. Text analysis of an open-ended question shows thoughtful engagement with the implications of AI and no signs of partisan cueing. This article provides a first big-picture investigation of the political implications of generative AI and outlines avenues for further research.
 </details>
 <p> </p>
 
