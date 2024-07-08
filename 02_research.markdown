@@ -57,6 +57,16 @@ Generative artificial intelligence is already transforming how people work. Ther
 </details>
 <p> </p>
 
+**[Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
+  (with Jasmine Bhatia and Jane Gingrich; pre-print on **SSRN**)
+<details>
+  <summary>Abstract</summary>
+
+Scholars interested in the effect of automation on policy preferences have commonly argued that (perceived) risk predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a near-representative sample of 1,041 working-age adults from the UK we show that direct exposure to generative AI in text-based tasks does not increase worries about job prospects and leads to a more positive attitude towards the technology. Despite this, treated respondents show greater support for progressive social policy and place themselves politically further left, indicating that sociotropic preferences dominate self-interest. Text analysis of an open-ended question shows thoughtful engagement with the implications of AI and no signs of partisan cueing. This article provides a first big-picture investigation of the political implications of generative AI and outlines avenues for further research.
+</details>
+<p> </p>
+
+
 **[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/VET_KE_SER.pdf)** \
   (with Patrick Emmenegger; under review at **Socio-Economic Review**)
 <details>
@@ -94,15 +104,6 @@ How does technological change affect social policy preferences? We advance the l
 <p> </p>
 
 ### Work in Progress
-
-**Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences** \
-  (with Jasmine Bhatia and Jane Gingrich)
-<details>
-  <summary>Abstract</summary>
-
-Scholars interested in the effect of automation on policy preferences have commonly argued that (perceived) risk predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a near-representative sample of 1,041 working-age adults from the UK we show that direct exposure to generative AI in text-based tasks does not increase worries about job prospects and leads to a more positive attitude towards the technology. Despite this, treated respondents show greater support for progressive social policy and place themselves politically further left, indicating that sociotropic preferences dominate self-interest. Text analysis of an open-ended question shows thoughtful engagement with the implications of AI and no signs of partisan cueing. This article provides a first big-picture investigation of the political implications of generative AI and outlines avenues for further research.
-</details>
-<p> </p>
 
 **Striking the Balance? Firms’ Training Strategies in Response to Generative AI** 
 <details>
