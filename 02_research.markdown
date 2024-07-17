@@ -10,6 +10,15 @@ permalink: /research/
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
+**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/papers/Taxing_Inheritances_rev.pdf)**, *World Politcs (forthcoming).* \
+  (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
+<details>
+  <summary>Abstract</summary>
+
+It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. In this paper, we argue that housing wealth performs an insurance function and is thereby associated with higher internal and external political efficacy. Using data from the UKHLS and a representative survey including an experiment that was administered in England and Wales, we document a sizeable and statistically significant positive association of housing wealth and perceived wealth with efficacy. However, this relationship is less robust to sample attrition than between efficacy and education or income. We furthermore investigate whether informing respondents about house price inequality affects their efficacy. Our information treatments show no effect on external efficacy, while the effect on internal efficacy depends on the respondent correctly understanding the information: comprehenders show higher efficacy and non-comprehenders exhibit lower efficacy, compared to the control group. This suggests that views of government responsiveness (external efficacy) are not easily manipulated, while for people's view of their own understanding of politics (internal efficacy), comprehension matters more than content of the information treatment, in accordance with self-efficacy theory. 
+</details>
+<p> </p> 
+
 **[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186)**, 2023, *Comparative Politics* 55(2), 193-218. \
 (with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
 <details>
@@ -39,15 +48,6 @@ Which tasks workers perform on their jobs is critical for how technological chan
 
 ### Working Papers
 
-**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/papers/Taxing_Inheritances_rev.pdf)** \
-  (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup; conditionally accepted at **World Politics**) 
-<details>
-  <summary>Abstract</summary>
-
-It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth has been largely neglected in this literature. In this paper, we argue that housing wealth performs an insurance function and is thereby associated with higher internal and external political efficacy. Using data from the UKHLS and a representative survey including an experiment that was administered in England and Wales, we document a sizeable and statistically significant positive association of housing wealth and perceived wealth with efficacy. However, this relationship is less robust to sample attrition than between efficacy and education or income. We furthermore investigate whether informing respondents about house price inequality affects their efficacy. Our information treatments show no effect on external efficacy, while the effect on internal efficacy depends on the respondent correctly understanding the information: comprehenders show higher efficacy and non-comprehenders exhibit lower efficacy, compared to the control group. This suggests that views of government responsiveness (external efficacy) are not easily manipulated, while for people's view of their own understanding of politics (internal efficacy), comprehension matters more than content of the information treatment, in accordance with self-efficacy theory. 
-</details>
-<p> </p> 
-
 **[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
   (with Jane Gingrich and Jasmine Bhatia; pre-print on **SSRN**)
 <details>
@@ -58,7 +58,7 @@ Generative artificial intelligence is already transforming how people work. Ther
 <p> </p>
 
 **[Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
-  (with Jasmine Bhatia and Jane Gingrich; pre-print on **SSRN**)
+  (with Jasmine Bhatia and Jane Gingrich; under review at **Political Science Research and Methods**)
 <details>
   <summary>Abstract</summary>
 
