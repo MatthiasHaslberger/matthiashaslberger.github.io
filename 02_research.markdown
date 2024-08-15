@@ -49,7 +49,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 ### Working Papers
 
 **[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
-  (with Jane Gingrich and Jasmine Bhatia; pre-print on **SSRN**)
+  (with Jane Gingrich and Jasmine Bhatia; under review at *Management Science*)
 <details>
   <summary>Abstract</summary>
 
@@ -58,7 +58,7 @@ Generative artificial intelligence is already transforming how people work. Ther
 <p> </p>
 
 **[Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
-  (with Jasmine Bhatia and Jane Gingrich; under review at **Political Science Research and Methods**)
+  (with Jasmine Bhatia and Jane Gingrich; under review at *Political Science Research and Methods*)
 <details>
   <summary>Abstract</summary>
 
@@ -68,7 +68,7 @@ Scholars interested in the effect of automation on policy preferences have commo
 
 
 **[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/VET_KE_SER.pdf)** \
-  (with Patrick Emmenegger; under review at **Socio-Economic Review**)
+  (with Patrick Emmenegger; under review at *Socio-Economic Review*)
 <details>
   <summary>Abstract</summary>
     
