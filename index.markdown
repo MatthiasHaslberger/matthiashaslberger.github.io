@@ -12,6 +12,6 @@ I am a Postdoctoral Researcher at the School of Economics and Political Science 
 
 I hold a PhD from the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk){:target="_blank"} at the University of Oxford. Before moving to St. Gallen, I was a Postdoctoral Research Fellow at the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/){:target="_blank"}, University of Oxford, and a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/the-college/about-the-college/){:target="_blank"} where I worked on an ERC project on the politics of wealth inequality [(WEALTHPOL)](https://wealthpol.web.ox.ac.uk/about-project){:target="_blank"}.
 
-My research uses a wide range of predominantly quantitative and experimental methods and has been published in *Comparative Politics*, *Research in Social Stratification and Mobility*, and *The Economic and Labour Relations Review*. 
+My research straddles different social scientific disciplines and uses a wide range of predominantly quantitative and experimental methods. My work has been published in *World Politics* (forthcoming), *Comparative Politics*, *Research in Social Stratification and Mobility*, and *The Economic and Labour Relations Review*. 
 
 If you are interested in my research, feel free to reach out via [email](mailto:matthias.haslberger@unisg.ch) or [twitter](https://twitter.com/matt_haslberger){:target="_blank"}. 
