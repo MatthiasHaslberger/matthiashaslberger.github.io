@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'CfP "Politics of AI"'
+menu: main
 permalink: /cfp/
 ---
 
