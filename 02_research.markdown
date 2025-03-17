@@ -47,9 +47,10 @@ Which tasks workers perform on their jobs is critical for how technological chan
 
 
 ### Working Papers
+<p> </p>
 
 **[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
-  (with Jane Gingrich and Jasmine Bhatia; under review at *Management Science*)
+  (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*)
 <details>
   <summary>Abstract</summary>
 
@@ -58,7 +59,7 @@ Generative artificial intelligence is already transforming how people work. Ther
 <p> </p>
 
 **[Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
-  (with Jasmine Bhatia and Jane Gingrich; under review at *Political Science Research and Methods*)
+  (with Jasmine Bhatia and Jane Gingrich; under review at *Journal of European Public Policy*)
 <details>
   <summary>Abstract</summary>
 
@@ -67,8 +68,18 @@ Scholars interested in the effect of automation on policy preferences have commo
 <p> </p>
 
 
-**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/VET_KE_SER.pdf)** \
-  (with Patrick Emmenegger; under review at *Socio-Economic Review*)
+**[The Missing Link: Technological Change, Dual VET, and Social Policy Preferences](https://matthiashaslberger.github.io/papers/Missing_Link_051224.pdf)** \
+  (with Patrick Emmenegger and Niccolo Durazzi; under review at *Comparative Political Studies*)
+<details>
+  <summary>Abstract</summary>
+    
+How does technological change affect social policy preferences? We advance the lively debate surrounding this question by focusing on the moderating role of education and training institutions. In particular, we develop a theoretical argument that foregrounds the role of dual VET systems. While existing literature would lead us to expect that dual VET systems increase demand for compensatory social policy and magnify the effect of automation risk on such demand, we contend that the opposite holds true. We hypothesize that dual VET systems weaken demand for compensatory social policy and dampen the effect of automation risk on demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) skill certification; (ii) material self-interest; and (iii) workplace socialization. Analyzing cross-national individual data from ESS, fine-grained data on individual educational background from the German ESS module as well as national-level OECD data on education and training systems, we find strong evidence in favor of our argument. The paper does not only advance the debate on social policy preferences in the age of automation but it also sheds new light on an old debate, namely the relationship between skill specificity and social policy preferences.
+</details>  
+<p> </p>
+
+
+**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/Yesterday's_Model_241024.pdf)** \
+  (with Patrick Emmenegger; under review at *World Politics*)
 <details>
   <summary>Abstract</summary>
     
@@ -94,16 +105,9 @@ Despite being much more unequally distributed than income, wealth as a determina
 </details>
 <p> </p>
 
-**[The Missing Link: Technological Change, Dual VET, and Social Policy Preferences](https://matthiashaslberger.github.io/papers/VET_and_LMP_Preferences.pdf)** \
-  (with Patrick Emmenegger and Niccolo Durazzi)
-<details>
-  <summary>Abstract</summary>
-    
-How does technological change affect social policy preferences? We advance the lively debate surrounding this question by focusing on the moderating role of education and training institutions. In particular, we develop a theoretical argument that foregrounds the role of dual VET systems. While existing literature would lead us to expect that dual VET systems increase demand for compensatory social policy and magnify the effect of automation risk on such demand, we contend that the opposite holds true. We hypothesize that dual VET systems weaken demand for compensatory social policy and dampen the effect of automation risk on demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) skill certification; (ii) material self-interest; and (iii) workplace socialization. Analyzing cross-national individual data from ESS, fine-grained data on individual educational background from the German ESS module as well as national-level OECD data on education and training systems, we find strong evidence in favor of our argument. The paper does not only advance the debate on social policy preferences in the age of automation but it also sheds new light on an old debate, namely the relationship between skill specificity and social policy preferences.
-</details>  
-<p> </p>
 
 ### Work in Progress
+<p> </p>
 
 **Striking the Balance? Firms’ Training Strategies in Response to Generative AI** 
 <details>
