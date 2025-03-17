@@ -102,16 +102,6 @@ Education equips individuals with valuable skills to protect them against employ
 <p> </p>
 
 
-**[Housing and Political Efficacy](https://matthiashaslberger.github.io/papers/housing_efficacy.pdf)** \
-  (with Mads Elkjaer and Ben Ansell) 
-<details>
-  <summary>Abstract</summary>
-    
-It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth - in particular, housing wealth - has thus far been ignored in this literature. We theorise that housing performs several functions that increase political efficacy and test our arguments using data from three large representative surveys administered in the UK. We first argue that housing wealth provides a form of "self-insurance", which on the one hand facilitates civic engagement, and on the other hand raises people's stakes in the political process. In line with this argument, we find that homeowners, owners of more valuable houses, owners who have paid off their mortgage, and individuals who believe themselves to be higher in the housing wealth distribution all exhibit higher efficacy. Based on the literature on status expectations and the politics of resentment, we furthermore investigate whether intergenerational housing mobility affects political efficacy. However, we find no evidence that upward or downward intergenerational housing mobility affects efficacy beyond the first-order effect of homeownership. Finally, we study whether stronger local ties explain the higher efficacy of homeowners. Again, however, we find no evidence that length of tenancy in the area affects homeowners and renters differently. The results of this study show that housing - and by extension wealth more generally - constitutes a hitherto neglected but crucial determinant of political efficacy, chiefly by providing security which enables and incentivises engagement.
-</details>
-<p> </p> 
-
-
 **[Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information](https://matthiashaslberger.github.io/papers/Europe_Wealth_Taxes_050125.pdf)** \
   (with Ben Ansell and Mads Elkjaer)
 <details>
@@ -142,3 +132,13 @@ Practical learning from experts is key to the mastery of almost any job. It cons
 Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. As a result, VET policy initiatives have proliferated in recent years. However, we know little about the factors that influence the choice between VET and general education (GE). We examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. We asked respondents to assign fictitious 15-year-olds to either VET or GE based on their academic performance, motivation, and sociodemographic variables. Our experimental design reduces social desirability bias by presenting respondents with random combinations of profile attributes. We find that respondents perceive clear educational hierarchies in which strong and motivated students are consistently recommended to pursue GE over VET. In addition, we find evidence of systematic social bias, where students with high socioeconomic status are more likely to be recommended for GE. These patterns are consistent across countries as well as across subgroups (educational background, occupational groups), suggesting that VET is widely perceived as a less attractive choice. Our findings show that advocates of VET face an uphill battle. Initiatives to develop VET systems need to address their relative attractiveness deficit and, we argue, offer access to tertiary education on a similar footing with GE pathways.
 </details>
 <p> </p>
+
+
+**Housing and Political Efficacy** \
+  (with Mads Elkjaer and Ben Ansell) 
+<details>
+  <summary>Abstract</summary>
+    
+It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth - in particular, housing wealth - has thus far been ignored in this literature. We theorise that housing performs several functions that increase political efficacy and test our arguments using data from three large representative surveys administered in the UK. We first argue that housing wealth provides a form of "self-insurance", which on the one hand facilitates civic engagement, and on the other hand raises people's stakes in the political process. In line with this argument, we find that homeowners, owners of more valuable houses, owners who have paid off their mortgage, and individuals who believe themselves to be higher in the housing wealth distribution all exhibit higher efficacy. Based on the literature on status expectations and the politics of resentment, we furthermore investigate whether intergenerational housing mobility affects political efficacy. However, we find no evidence that upward or downward intergenerational housing mobility affects efficacy beyond the first-order effect of homeownership. Finally, we study whether stronger local ties explain the higher efficacy of homeowners. Again, however, we find no evidence that length of tenancy in the area affects homeowners and renters differently. The results of this study show that housing - and by extension wealth more generally - constitutes a hitherto neglected but crucial determinant of political efficacy, chiefly by providing security which enables and incentivises engagement.
+</details>
+<p> </p> 
