@@ -34,6 +34,8 @@ uni_link: https://www.alexandria.unisg.ch/entities/person/Matthias_Haslberger/ot
 nav_ext_links:
   - name: CV
     url: https://matthiashaslberger.github.io/Academic_CV.pdf
+  - name: Politics of AI
+    url: https://matthiashaslberger.github.io/CfP_SI__Politics_of_AI.pdf
 
 # Build settings
 # theme: academic
