@@ -19,6 +19,7 @@ It has long been established that education and income affect people's political
 </details>
 <p> </p> 
 
+
 **[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186)**, 2023, *Comparative Politics* 55(2), 193-218. \
 (with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
 <details>
@@ -28,6 +29,7 @@ The massification of secondary schooling constitutes the key educational project
 </details>
 <p> </p>  
 
+
 **[Routine-biased technological change does not always lead to polarisation: Evidence from 10 OECD countries, 1995–2013](https://www.sciencedirect.com/science/article/abs/pii/S0276562421000433?via%3Dihub)**, 2021, *Research in Social Stratification and Mobility* 74 (August 2021).
 <details>
   <summary>Abstract</summary>
@@ -35,6 +37,7 @@ The massification of secondary schooling constitutes the key educational project
 This article deals with a central paradox in the occupational polarisation literature: most scholars accept that technological change is biased against routine-intensive occupations, but in many countries, we do not see the pattern of occupational polarisation that the theory usually predicts. I argue and show empirically using a dataset of 10 OECD countries between 1995 and 2013 that technological change is both routine-biased and skill-biased, but that the result of routine-biased technological change may be occupational upgrading rather than polar- isation. This is due to differences in occupational routine-wage hierarchies: only where routine occupations cluster around the middle of the wage distribution are we likely to see polarisation. Where routine occupations are concentrated near the bottom of the wage hierarchy, upgrading occupational change is the norm. Based on research on the US, the former has been widely assumed, but it does not hold true in all countries. Overall, this article shows that much previous work on routine-biased technological change and polarisation was built on premises that do not travel well. This underscores the importance of comparative research for building and testing robust general theories.
 </details>
 <p> </p>  
+
 
 **[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095)**, 2021, *The Economic and Labour Relations Review* 33(1), 178-199. \
 [Replication Data](https://doi.org/10.7910/DVN/JABYD7){: .button}{:target="_blank"}
@@ -57,6 +60,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 Generative artificial intelligence is already transforming how people work. There is an emerging consensus in early studies that it reduces inequalities in performance within specific occupational groups; however, the question of whether these results generalize to the labor market at large remains open. We conducted a pre-registered online experiment with a representative sample of the UK working-age population. We randomly assigned participants to treatments that encouraged or discouraged the use of ChatGPT and then asked them to complete a set of tasks of varying complexity and ambiguity. We find that exposure to ChatGPT increased productivity in all tasks, with greater benefits observed in more complex and less ambiguous tasks. ChatGPT did reduce performance inequality *within* occupational groups in most cases, but not *between* educational or occupational groups. Inequalities between younger and older workers even increased. This study indicates that generative AI has the potential to improve worker performance in a wide array of tasks, but the impact on aggregate inequalities is likely to depend on task-specific features and workers' characteristics.
 </details>
 <p> </p>
+
 
 **[Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
   (with Jasmine Bhatia and Jane Gingrich; under review at *Journal of European Public Policy*)
@@ -87,6 +91,17 @@ Dual vocational education and training (VET) systems are said to have positive e
 </details>
 <p> </p>
 
+
+**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://matthiashaslberger.github.io/papers/Tech_Risk_and_VET_Attractiveness_180125.pdf)** \
+  (with Scherwin Bajka; under review at *Regulation & Governance*)
+<details>
+  <summary>Abstract</summary>
+    
+Education equips individuals with valuable skills to protect them against employment risks associated with the digital transition. As scholars debate whether vocational education and training (VET) or general education better insures against technology-induced employment risk, we ask how this type of risk, as perceived by individuals, shapes their education preferences. Our analyses, based on a survey of over 11,500 respondents across seven European countries, show that VET is regarded as a safe haven by those perceiving heightened risk. This relationship remains robust when controlling for various alternative explanations and is consistent across countries. Subgroup interactions indicate that men, high-income earners, respondents with tertiary education, and those politically on the right more strongly favor VET in response to subjective technology risk. Hence, our study suggests that VET’s practical, job-oriented focus is perceived as better protection against the growing uncertainty over skill demands in the twin transition than general education.
+</details>
+<p> </p>
+
+
 **[Housing and Political Efficacy](https://matthiashaslberger.github.io/papers/housing_efficacy.pdf)** \
   (with Mads Elkjaer and Ben Ansell) 
 <details>
@@ -96,12 +111,13 @@ It has long been established that education and income affect people's political
 </details>
 <p> </p> 
 
-**[Housing Wealth and Tax Preferences Across Europe](https://matthiashaslberger.github.io/papers/housing_taxes.pdf)** \
+
+**[Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information](https://matthiashaslberger.github.io/papers/Europe_Wealth_Taxes_050125.pdf)** \
   (with Ben Ansell and Mads Elkjaer)
 <details>
   <summary>Abstract</summary>
     
-Despite being much more unequally distributed than income, wealth as a determinant of political preferences has received comparatively little attention. We address this gap by studying how housing wealth – the bulk of private wealth for most ordinary citizens – affects attitudes towards the taxation of income, inheritance, capital gains, and wealth. We leverage data from 7 European countries from an original survey including a conjoint and an information experiment. We find that compared to renters, homeowners and children of homeowners prefer less progressive taxation of wealth and inheritances. We can further show that this effect is driven by homeowners who own their house outright, while homeowners with a mortgage have more moderate preferences. People who believe they are wealthy relative to others are likewise less supportive of progressive taxation. This supports a view of homeowners as rational economic actors who are particularly opposed to taxes that predominantly affect them. In the conjoint, we find that people favour progressive but overall lower taxes. Furthermore, when forced to choose between joint income and inheritance tax schedules, income tax takes precedence, even for homeowners. Overall, this paper provides a comprehensive investigation of housing wealth and tax preferences in Europe and contributes to an increasingly salient public and academic debate.
+Despite high and rising levels of wealth inequality, wealth taxes have been reduced in many countries. While existing explanations focus on structural factors, we argue that public opposition to wealth taxes among homeowners has contributed to creating a political playing field that facilitates low wealth taxes. This opposition is aided by information asymmetries, which prevent low-wealth renters from formulating preferences that align with their material self-interest. Utilizing original survey data from Denmark, France, Germany, Ireland, Italy, the Netherlands, and Sweden, we find empirical support for our thesis. Housing wealth increases the likelihood of stating a preference on wealth taxation, and homeowners and their children support less progressive taxation of wealth, inheritances, and capital gains. The paper helps us understand why, despite pronounced inequality in asset ownership, wealth taxation has fallen out of favor among democratically elected governments.
 </details>
 <p> </p>
 
@@ -114,15 +130,15 @@ Despite being much more unequally distributed than income, wealth as a determina
   <summary>Abstract</summary>
 
 Practical learning from experts is key to the mastery of almost any job. It constitutes the backbone of collective skill formation systems and is equally crucial in systems emphasising on-the-job learning. Yet, generative AI threatens the complementary relationship between master and apprentice, senior and junior worker: tasks performed by entry-level workers with limited experience tend to be particularly exposed to substitution by AI. If these positions are replaced, skill development is impeded and overall workforce skill levels are likely to suffer in the medium- to long-term. This creates a dilemma for profit-maximising firms: automation may boost short-term productivity at the expense of long-term productivity growth. This paper studies how firms in Germany and the US navigate this challenge. Building on the Varieties of Capitalism literature, I argue that differences such as higher employee turnover and a greater emphasis on shareholder value incentivise American firms to prioritise AI adoption, while German firms maintain a stronger focus on training younger workers even if it means foregoing short-term gains. I test this argument empirically using data on job openings in sectors that are exposed to or sheltered from AI. This allows me to trace differential rates of change between the groups of occupations and across countries in a) the balance between junior and senior vacancies and b) the task composition of junior roles. Empirical support for my argument highlights a hitherto underappreciated potential long-term consequence of generative AI that may undermine its productivity-enhancing effects.
-
 </details>
 <p> </p>
 
-**The Attractiveness of Vocational Education Across Europe** \
-  (with Annatina Aerne, Giuliano Bonoli, Patrick Emmenegger, Cecilia Ivardi, Scherwin Bajka, and Anna Wilson)
+
+**When Top-Down Imposition Meets Bottom-Up Skepticism: The Relative Attractiveness Deficit of VET in Europe** \
+  (with Patrick Emmenegger and Anna Wilson)
 <details>
   <summary>Abstract</summary>
 
-Based on an original survey in 7 European countries, we aim to provide a comprehensive analysis of the determinants of the attractiveness of vocational education and training systems. 
+Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. As a result, VET policy initiatives have proliferated in recent years. However, we know little about the factors that influence the choice between VET and general education (GE). We examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. We asked respondents to assign fictitious 15-year-olds to either VET or GE based on their academic performance, motivation, and sociodemographic variables. Our experimental design reduces social desirability bias by presenting respondents with random combinations of profile attributes. We find that respondents perceive clear educational hierarchies in which strong and motivated students are consistently recommended to pursue GE over VET. In addition, we find evidence of systematic social bias, where students with high socioeconomic status are more likely to be recommended for GE. These patterns are consistent across countries as well as across subgroups (educational background, occupational groups), suggesting that VET is widely perceived as a less attractive choice. Our findings show that advocates of VET face an uphill battle. Initiatives to develop VET systems need to address their relative attractiveness deficit and, we argue, offer access to tertiary education on a similar footing with GE pathways.
 </details>
 <p> </p>
