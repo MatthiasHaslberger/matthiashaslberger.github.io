@@ -53,7 +53,8 @@ Which tasks workers perform on their jobs is critical for how technological chan
 <p> </p>
 
 **[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
-  (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*)
+  (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*) \
+  [Latest Version](https://matthiashaslberger.github.io/papers/No_Great_Equalizer_210225.pdf){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
@@ -63,7 +64,8 @@ Generative artificial intelligence is already transforming how people work. Ther
 
 
 **[Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
-  (with Jasmine Bhatia and Jane Gingrich; under review at *Journal of European Public Policy*)
+  (with Jasmine Bhatia and Jane Gingrich; under review at *Journal of European Public Policy*) \
+  [Latest Version](https://matthiashaslberger.github.io/papers/Rage_Against_the_Machine_130325.pdf){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
