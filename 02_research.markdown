@@ -52,24 +52,22 @@ Which tasks workers perform on their jobs is critical for how technological chan
 ### Working Papers
 <p> </p>
 
-**[No Great Equalizer: Experimental Evidence on AI in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
-  (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*) \
-  [Latest Version](https://matthiashaslberger.github.io/papers/No_Great_Equalizer_210225.pdf){: .button}{:target="_blank"}
+**[No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
+  (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*) 
 <details>
   <summary>Abstract</summary>
 
-Generative artificial intelligence is already transforming how people work. There is an emerging consensus in early studies that it reduces inequalities in performance within specific occupational groups; however, the question of whether these results generalize to the labor market at large remains open. We conducted a pre-registered online experiment with a representative sample of the UK working-age population. We randomly assigned participants to treatments that encouraged or discouraged the use of ChatGPT and then asked them to complete a set of tasks of varying complexity and ambiguity. We find that exposure to ChatGPT increased productivity in all tasks, with greater benefits observed in more complex and less ambiguous tasks. ChatGPT did reduce performance inequality *within* occupational groups in most cases, but not *between* educational or occupational groups. Inequalities between younger and older workers even increased. This study indicates that generative AI has the potential to improve worker performance in a wide array of tasks, but the impact on aggregate inequalities is likely to depend on task-specific features and workers' characteristics.
+An emerging consensus holds that generative artificial intelligence (AI) equalizes workers’ performance within tasks, reducing productivity differences across workers. Existing research has largely studied productivity within single occupational groups and task structures. Whether this equalizing pattern generalizes to the labor market at large remains unclear. Observed performance equalization within groups of workers is compatible with both increasing and decreasing inequality between groups. To distinguish these outcomes, we conducted a large pre-registered online experiment with a sample of the UK working age population which randomly assigned participants to treatments that encouraged or discouraged the use of ChatGPT and then asked them to complete a set of realistic work tasks. We find that ChatGPT use increased productivity in all tasks, with greater benefits observed in more complex and less ambiguous tasks. However, compression effects between tasks were limited. Moreover, ChatGPT use did not affect productivity differentials between gender, age, educational or occupational groups.
 </details>
 <p> </p>
 
 
-**[Rage Against the Machine? Generative AI Use, Threat Perceptions, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
-  (with Jasmine Bhatia and Jane Gingrich; under review at *Journal of European Public Policy*) \
-  [Latest Version](https://matthiashaslberger.github.io/papers/Rage_Against_the_Machine_130325.pdf){: .button}{:target="_blank"}
+**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
+  (with Jasmine Bhatia and Jane Gingrich; under review at *Journal of European Public Policy*) 
 <details>
   <summary>Abstract</summary>
 
-Scholars interested in the effect of automation on policy preferences have commonly argued that (perceived) risk predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a near-representative sample of 1,041 working-age adults from the UK we show that direct exposure to generative AI in text-based tasks does not increase worries about job prospects and leads to a more positive attitude towards the technology. Despite this, treated respondents show greater support for progressive social policy and place themselves politically further left, indicating that sociotropic preferences dominate self-interest. Text analysis of an open-ended question shows thoughtful engagement with the implications of AI and no signs of partisan cueing. This article provides a first big-picture investigation of the political implications of generative AI and outlines avenues for further research.
+How does novel technology change public policy demands? Scholars interested in the effect of automation on policy preferences have commonly argued that exposure to automation technology increases subjective risk, which in turn predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a sample of 1,041 UK working-age adults we show that direct exposure to generative AI in realistic work tasks does not increase subjective risk but does strengthen support for activating social policy. To understand this constellation of attitudes, we argue that exposure to technology may activate sociotropic preferences to support individuals who might be negatively affected by AI. Text analysis shows cautious optimism and thoughtful engagement with the implications of AI for work and social policy. Our findings suggest that the current uncertainty over the relative winners and losers from AI opens a window of opportunity to expand activating social policies.
 </details>
 <p> </p>
 
