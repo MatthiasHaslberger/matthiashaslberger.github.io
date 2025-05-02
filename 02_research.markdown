@@ -73,7 +73,7 @@ How does novel technology change public policy demands? Scholars interested in t
 
 
 **[The Missing Link: Technological Change, Dual VET, and Social Policy Preferences](https://matthiashaslberger.github.io/papers/Missing_Link_051224.pdf)** \
-  (with Patrick Emmenegger and Niccolo Durazzi; under review at *Comparative Political Studies*)
+  (with Patrick Emmenegger and Niccolo Durazzi; under review at *British Journal of Political Science*)
 <details>
   <summary>Abstract</summary>
     
@@ -102,8 +102,8 @@ Education equips individuals with valuable skills to protect them against employ
 <p> </p>
 
 
-**[Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information](https://matthiashaslberger.github.io/papers/Europe_Wealth_Taxes_050125.pdf)** \
-  (with Ben Ansell and Mads Elkjaer)
+**[Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information](https://matthiashaslberger.github.io/papers/Wealth_Tax_Preferences_130425.pdf)** \
+  (with Ben Ansell and Mads Elkjaer; under review at *British Journal of Political Science*)
 <details>
   <summary>Abstract</summary>
     
@@ -124,12 +124,12 @@ Practical learning from experts is key to the mastery of almost any job. It cons
 <p> </p>
 
 
-**When Top-Down Imposition Meets Bottom-Up Skepticism: The Relative Attractiveness Deficit of VET in Europe** \
+**Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
   (with Patrick Emmenegger and Anna Wilson)
 <details>
   <summary>Abstract</summary>
 
-Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. As a result, VET policy initiatives have proliferated in recent years. However, we know little about the factors that influence the choice between VET and general education (GE). We examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. We asked respondents to assign fictitious 15-year-olds to either VET or GE based on their academic performance, motivation, and sociodemographic variables. Our experimental design reduces social desirability bias by presenting respondents with random combinations of profile attributes. We find that respondents perceive clear educational hierarchies in which strong and motivated students are consistently recommended to pursue GE over VET. In addition, we find evidence of systematic social bias, where students with high socioeconomic status are more likely to be recommended for GE. These patterns are consistent across countries as well as across subgroups (educational background, occupational groups), suggesting that VET is widely perceived as a less attractive choice. Our findings show that advocates of VET face an uphill battle. Initiatives to develop VET systems need to address their relative attractiveness deficit and, we argue, offer access to tertiary education on a similar footing with GE pathways.
+Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. As a result, VET policy initiatives have proliferated in recent years. However, we know little about the factors that influence the choice between VET and general education. We examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. We asked respondents to assign fictitious 15-year-olds to either VET or general education based on their performance in school, motivation, and sociodemographic variables. We find that respondents perceive clear educational hierarchies in which students with low grades and little motivation are recommended to pursue VET. In addition, we find that boys, students with low socioeconomic status, and students from outside big cities are advised to pursue VET. These patterns are consistent across countries and different subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral, in which the relative unattractiveness of VET and processes of academic drift reinforce each other. Proponents of VET thus face an uphill battle. Initiatives to develop VET systems need to address their relative attractiveness deficit and make VET an equally valued alternative to GE.
 </details>
 <p> </p>
 
