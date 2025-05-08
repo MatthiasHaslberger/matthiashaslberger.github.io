@@ -10,7 +10,7 @@ permalink: /research/
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
-**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/papers/Taxing_Inheritances_rev.pdf)**, *World Politcs (forthcoming).* \
+**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/papers/Taxing_Inheritances_rev.pdf)**, 2025, *World Politcs* 77(3). \
   (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
 <details>
   <summary>Abstract</summary>
@@ -30,16 +30,7 @@ The massification of secondary schooling constitutes the key educational project
 <p> </p>  
 
 
-**[Routine-biased technological change does not always lead to polarisation: Evidence from 10 OECD countries, 1995–2013](https://www.sciencedirect.com/science/article/abs/pii/S0276562421000433?via%3Dihub)**, 2021, *Research in Social Stratification and Mobility* 74 (August 2021).
-<details>
-  <summary>Abstract</summary>
-  
-This article deals with a central paradox in the occupational polarisation literature: most scholars accept that technological change is biased against routine-intensive occupations, but in many countries, we do not see the pattern of occupational polarisation that the theory usually predicts. I argue and show empirically using a dataset of 10 OECD countries between 1995 and 2013 that technological change is both routine-biased and skill-biased, but that the result of routine-biased technological change may be occupational upgrading rather than polar- isation. This is due to differences in occupational routine-wage hierarchies: only where routine occupations cluster around the middle of the wage distribution are we likely to see polarisation. Where routine occupations are concentrated near the bottom of the wage hierarchy, upgrading occupational change is the norm. Based on research on the US, the former has been widely assumed, but it does not hold true in all countries. Overall, this article shows that much previous work on routine-biased technological change and polarisation was built on premises that do not travel well. This underscores the importance of comparative research for building and testing robust general theories.
-</details>
-<p> </p>  
-
-
-**[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095)**, 2021, *The Economic and Labour Relations Review* 33(1), 178-199. \
+**[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095)**, 2022, *The Economic and Labour Relations Review* 33(1), 178-199. \
 [Replication Data](https://doi.org/10.7910/DVN/JABYD7){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -49,8 +40,28 @@ Which tasks workers perform on their jobs is critical for how technological chan
 <p> </p>
 
 
+**[Routine-biased technological change does not always lead to polarisation: Evidence from 10 OECD countries, 1995–2013](https://www.sciencedirect.com/science/article/abs/pii/S0276562421000433?via%3Dihub)**, 2021, *Research in Social Stratification and Mobility* 74 (August 2021).
+<details>
+  <summary>Abstract</summary>
+  
+This article deals with a central paradox in the occupational polarisation literature: most scholars accept that technological change is biased against routine-intensive occupations, but in many countries, we do not see the pattern of occupational polarisation that the theory usually predicts. I argue and show empirically using a dataset of 10 OECD countries between 1995 and 2013 that technological change is both routine-biased and skill-biased, but that the result of routine-biased technological change may be occupational upgrading rather than polar- isation. This is due to differences in occupational routine-wage hierarchies: only where routine occupations cluster around the middle of the wage distribution are we likely to see polarisation. Where routine occupations are concentrated near the bottom of the wage hierarchy, upgrading occupational change is the norm. Based on research on the US, the former has been widely assumed, but it does not hold true in all countries. Overall, this article shows that much previous work on routine-biased technological change and polarisation was built on premises that do not travel well. This underscores the importance of comparative research for building and testing robust general theories.
+</details>
+<p> </p>  
+
+
 ### Working Papers
 <p> </p>
+
+
+**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://matthiashaslberger.github.io/papers/Tech_Risk_and_VET_Attractiveness_180125.pdf)** \
+  (with Scherwin Bajka; R&R at *Regulation & Governance*)
+<details>
+  <summary>Abstract</summary>
+    
+Education equips individuals with valuable skills to protect them against employment risks associated with the digital transition. As scholars debate whether vocational education and training (VET) or general education better insures against technology-induced employment risk, we ask how this type of risk, as perceived by individuals, shapes their education preferences. Our analyses, based on a survey of over 11,500 respondents across seven European countries, show that VET is regarded as a safe haven by those perceiving heightened risk. This relationship remains robust when controlling for various alternative explanations and is consistent across countries. Subgroup interactions indicate that men, high-income earners, respondents with tertiary education, and those politically on the right more strongly favor VET in response to subjective technology risk. Hence, our study suggests that VET’s practical, job-oriented focus is perceived as better protection against the growing uncertainty over skill demands in the twin transition than general education.
+</details>
+<p> </p>
+
 
 **[No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
   (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*) 
@@ -88,16 +99,6 @@ How does technological change affect social policy preferences? We advance the l
   <summary>Abstract</summary>
     
 Dual vocational education and training (VET) systems are said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy undermines these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the effect of dual VET on wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET remains associated with lower levels of wage inequality throughout the entire period. The rise of the knowledge economy is positively associated with wage inequality at low levels of dual VET. However, where the dual VET share is high, the rise of the knowledge economy further reduces wage inequality. Contrary to the fears often espoused in the literature, we find no evidence that the knowledge economy undermines the positive effects of dual VET.
-</details>
-<p> </p>
-
-
-**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://matthiashaslberger.github.io/papers/Tech_Risk_and_VET_Attractiveness_180125.pdf)** \
-  (with Scherwin Bajka; under review at *Regulation & Governance*)
-<details>
-  <summary>Abstract</summary>
-    
-Education equips individuals with valuable skills to protect them against employment risks associated with the digital transition. As scholars debate whether vocational education and training (VET) or general education better insures against technology-induced employment risk, we ask how this type of risk, as perceived by individuals, shapes their education preferences. Our analyses, based on a survey of over 11,500 respondents across seven European countries, show that VET is regarded as a safe haven by those perceiving heightened risk. This relationship remains robust when controlling for various alternative explanations and is consistent across countries. Subgroup interactions indicate that men, high-income earners, respondents with tertiary education, and those politically on the right more strongly favor VET in response to subjective technology risk. Hence, our study suggests that VET’s practical, job-oriented focus is perceived as better protection against the growing uncertainty over skill demands in the twin transition than general education.
 </details>
 <p> </p>
 
