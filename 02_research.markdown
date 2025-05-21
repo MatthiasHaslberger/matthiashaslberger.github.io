@@ -53,6 +53,16 @@ This article deals with a central paradox in the occupational polarisation liter
 <p> </p>
 
 
+**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
+  (with Jasmine Bhatia and Jane Gingrich; R&R at *Journal of European Public Policy*) 
+<details>
+  <summary>Abstract</summary>
+
+How does novel technology change public policy demands? Scholars interested in the effect of automation on policy preferences have commonly argued that exposure to automation technology increases subjective risk, which in turn predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a sample of 1,041 UK working-age adults we show that direct exposure to generative AI in realistic work tasks does not increase subjective risk but does strengthen support for activating social policy. To understand this constellation of attitudes, we argue that exposure to technology may activate sociotropic preferences to support individuals who might be negatively affected by AI. Text analysis shows cautious optimism and thoughtful engagement with the implications of AI for work and social policy. Our findings suggest that the current uncertainty over the relative winners and losers from AI opens a window of opportunity to expand activating social policies.
+</details>
+<p> </p>
+
+
 **[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://matthiashaslberger.github.io/papers/Tech_Risk_and_VET_Attractiveness_180125.pdf)** \
   (with Scherwin Bajka; R&R at *Regulation & Governance*)
 <details>
@@ -69,16 +79,6 @@ Education equips individuals with valuable skills to protect them against employ
   <summary>Abstract</summary>
 
 An emerging consensus holds that generative artificial intelligence (AI) equalizes workers’ performance within tasks, reducing productivity differences across workers. Existing research has largely studied productivity within single occupational groups and task structures. Whether this equalizing pattern generalizes to the labor market at large remains unclear. Observed performance equalization within groups of workers is compatible with both increasing and decreasing inequality between groups. To distinguish these outcomes, we conducted a large pre-registered online experiment with a sample of the UK working age population which randomly assigned participants to treatments that encouraged or discouraged the use of ChatGPT and then asked them to complete a set of realistic work tasks. We find that ChatGPT use increased productivity in all tasks, with greater benefits observed in more complex and less ambiguous tasks. However, compression effects between tasks were limited. Moreover, ChatGPT use did not affect productivity differentials between gender, age, educational or occupational groups.
-</details>
-<p> </p>
-
-
-**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
-  (with Jasmine Bhatia and Jane Gingrich; under review at *Journal of European Public Policy*) 
-<details>
-  <summary>Abstract</summary>
-
-How does novel technology change public policy demands? Scholars interested in the effect of automation on policy preferences have commonly argued that exposure to automation technology increases subjective risk, which in turn predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a sample of 1,041 UK working-age adults we show that direct exposure to generative AI in realistic work tasks does not increase subjective risk but does strengthen support for activating social policy. To understand this constellation of attitudes, we argue that exposure to technology may activate sociotropic preferences to support individuals who might be negatively affected by AI. Text analysis shows cautious optimism and thoughtful engagement with the implications of AI for work and social policy. Our findings suggest that the current uncertainty over the relative winners and losers from AI opens a window of opportunity to expand activating social policies.
 </details>
 <p> </p>
 
