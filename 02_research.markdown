@@ -10,7 +10,7 @@ permalink: /research/
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
-**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/papers/Taxing_Inheritances_rev.pdf)**, 2025, *World Politcs* 77(3). \
+**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/papers/Taxing_Inheritances_rev.pdf)**, 2025, *World Politcs* 77(3), 515-561. \
   (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
 <details>
   <summary>Abstract</summary>
@@ -88,17 +88,17 @@ An emerging consensus holds that generative artificial intelligence (AI) equaliz
 <details>
   <summary>Abstract</summary>
     
-How does technological change affect social policy preferences? We advance the lively debate surrounding this question by focusing on the moderating role of education and training institutions. In particular, we develop a theoretical argument that foregrounds the role of dual VET systems. While existing literature would lead us to expect that dual VET systems increase demand for compensatory social policy and magnify the effect of automation risk on such demand, we contend that the opposite holds true. We hypothesize that dual VET systems weaken demand for compensatory social policy and dampen the effect of automation risk on demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) skill certification; (ii) material self-interest; and (iii) workplace socialization. Analyzing cross-national individual data from ESS, fine-grained data on individual educational background from the German ESS module as well as national-level OECD data on education and training systems, we find strong evidence in favor of our argument. The paper does not only advance the debate on social policy preferences in the age of automation but it also sheds new light on an old debate, namely the relationship between skill specificity and social policy preferences.
+How does technological change affect social policy preferences? We advance this lively debate by focusing on the role of dual vocational education and training (VET). Existing literature would lead us to expect that dual VET increases demand for compensatory social policy and magnifies the effect of automation risk on such demands. In contrast, we contend that dual VET weakens demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) material self-interest; (ii) workplace socialization; and (iii) skill certification. We further hypothesize that dual VET mitigates the effect of automation risk on social policy preferences. Analyzing cross-national individual data from the European Social Survey and national-level data on education systems, we find strong evidence for our argument. The paper advances the debate on social policy preferences in the age of automation and sheds new light on the relationship between skill specificity and social policy preferences.
 </details>  
 <p> </p>
 
 
 **[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/Yesterday's_Model_241024.pdf)** \
-  (with Patrick Emmenegger; under review at *World Politics*)
+  (with Patrick Emmenegger; under review at *Journal of European Social Policy*)
 <details>
   <summary>Abstract</summary>
     
-Dual vocational education and training (VET) systems are said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy undermines these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the effect of dual VET on wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET remains associated with lower levels of wage inequality throughout the entire period. The rise of the knowledge economy is positively associated with wage inequality at low levels of dual VET. However, where the dual VET share is high, the rise of the knowledge economy further reduces wage inequality. Contrary to the fears often espoused in the literature, we find no evidence that the knowledge economy undermines the positive effects of dual VET.
+Dual vocational education and training (VET) is said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy may undermine these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the relationship between dual VET and wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET is associated with lower levels of wage inequality. This negative association is particularly strong in the lower half of the wage distribution, which suggests that academically weaker students are the main beneficiaries of dual VET. Using three different indicators of the knowledge economy, we find, contrary to the fears often espoused in the literature, no clear evidence that the knowledge economy erodes this negative association between dual VET and wage inequality.
 </details>
 <p> </p>
 
@@ -108,7 +108,17 @@ Dual vocational education and training (VET) systems are said to have positive e
 <details>
   <summary>Abstract</summary>
     
-Despite high and rising levels of wealth inequality, wealth taxes have been reduced in many countries. While existing explanations focus on structural factors, we argue that public opposition to wealth taxes among homeowners has contributed to creating a political playing field that facilitates low wealth taxes. This opposition is aided by information asymmetries, which prevent low-wealth renters from formulating preferences that align with their material self-interest. Utilizing original survey data from Denmark, France, Germany, Ireland, Italy, the Netherlands, and Sweden, we find empirical support for our thesis. Housing wealth increases the likelihood of stating a preference on wealth taxation, and homeowners and their children support less progressive taxation of wealth, inheritances, and capital gains. The paper helps us understand why, despite pronounced inequality in asset ownership, wealth taxation has fallen out of favor among democratically elected governments.
+Despite high and rising levels of wealth inequality, wealth taxes have been reduced in many countries. While existing explanations focus on structural factors, we argue that public opposition to wealth taxes among homeowners has contributed to creating a political playing field that facilitates low wealth taxes. This opposition is aided by  information asymmetries, which prevent low-wealth renters from formulating preferences that align with their material self-interest. Utilizing original survey data from Denmark, France, Germany, Ireland, Italy, the Netherlands, and Sweden, we find empirical support for our thesis. Housing wealth increases the likelihood of stating a preference on wealth taxation, and homeowners and their children support less progressive taxation of inheritances, wealth, and capital gains. The paper helps us understand why, despite pronounced inequality in asset ownership, wealth taxation has fallen out of favor among democratically elected governments.
+</details>
+<p> </p>
+
+
+**Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
+  (with Patrick Emmenegger and Anna Wilson; under review at *European Sociological Review*)
+<details>
+  <summary>Abstract</summary>
+
+Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. Consequently, VET policy initiatives have proliferated in recent years. However, little is known about the factors influencing the choice between VET and general education. In this study, we examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. Respondents were asked to assign fictitious 15-year-olds to either VET or general education based on achieved (performance in school and motivation) and ascribed characteristics (sociodemographic variables). Our findings show that respondents recommend students with low grades and little motivation to pursue VET. These effects weaken, but do not disappear, among respondents who favor VET in terms of future labor market outcomes. Additionally, we find that boys, working-class students, and students from outside big cities are advised to pursue VET. However, the effect of achievement is more important than the effect of ascription. These patterns are consistent across countries and subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral in which the relative unattractiveness of VET and academic drift reinforce each other.
 </details>
 <p> </p>
 
@@ -121,16 +131,6 @@ Despite high and rising levels of wealth inequality, wealth taxes have been redu
   <summary>Abstract</summary>
 
 Practical learning from experts is key to the mastery of almost any job. It constitutes the backbone of collective skill formation systems and is equally crucial in systems emphasising on-the-job learning. Yet, generative AI threatens the complementary relationship between master and apprentice, senior and junior worker: tasks performed by entry-level workers with limited experience tend to be particularly exposed to substitution by AI. If these positions are replaced, skill development is impeded and overall workforce skill levels are likely to suffer in the medium- to long-term. This creates a dilemma for profit-maximising firms: automation may boost short-term productivity at the expense of long-term productivity growth. This paper studies how firms in Germany and the US navigate this challenge. Building on the Varieties of Capitalism literature, I argue that differences such as higher employee turnover and a greater emphasis on shareholder value incentivise American firms to prioritise AI adoption, while German firms maintain a stronger focus on training younger workers even if it means foregoing short-term gains. I test this argument empirically using data on job openings in sectors that are exposed to or sheltered from AI. This allows me to trace differential rates of change between the groups of occupations and across countries in a) the balance between junior and senior vacancies and b) the task composition of junior roles. Empirical support for my argument highlights a hitherto underappreciated potential long-term consequence of generative AI that may undermine its productivity-enhancing effects.
-</details>
-<p> </p>
-
-
-**Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
-  (with Patrick Emmenegger and Anna Wilson)
-<details>
-  <summary>Abstract</summary>
-
-Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. As a result, VET policy initiatives have proliferated in recent years. However, we know little about the factors that influence the choice between VET and general education. We examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. We asked respondents to assign fictitious 15-year-olds to either VET or general education based on their performance in school, motivation, and sociodemographic variables. We find that respondents perceive clear educational hierarchies in which students with low grades and little motivation are recommended to pursue VET. In addition, we find that boys, students with low socioeconomic status, and students from outside big cities are advised to pursue VET. These patterns are consistent across countries and different subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral, in which the relative unattractiveness of VET and processes of academic drift reinforce each other. Proponents of VET thus face an uphill battle. Initiatives to develop VET systems need to address their relative attractiveness deficit and make VET an equally valued alternative to GE.
 </details>
 <p> </p>
 
