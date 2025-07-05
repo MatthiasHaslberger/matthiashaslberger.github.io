@@ -73,6 +73,16 @@ Education equips individuals with valuable skills to protect them against employ
 <p> </p>
 
 
+**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/Yesterday's_Model_241024.pdf)** \
+  (with Patrick Emmenegger; R&R at *Journal of European Social Policy*)
+<details>
+  <summary>Abstract</summary>
+    
+Dual vocational education and training (VET) is said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy may undermine these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the relationship between dual VET and wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET is associated with lower levels of wage inequality. This negative association is particularly strong in the lower half of the wage distribution, which suggests that academically weaker students are the main beneficiaries of dual VET. Using three different indicators of the knowledge economy, we find, contrary to the fears often espoused in the literature, no clear evidence that the knowledge economy erodes this negative association between dual VET and wage inequality.
+</details>
+<p> </p>
+
+
 **[No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
   (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*) 
 <details>
@@ -90,16 +100,6 @@ An emerging consensus holds that generative artificial intelligence (AI) equaliz
     
 How does technological change affect social policy preferences? We advance this lively debate by focusing on the role of dual vocational education and training (VET). Existing literature would lead us to expect that dual VET increases demand for compensatory social policy and magnifies the effect of automation risk on such demands. In contrast, we contend that dual VET weakens demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) material self-interest; (ii) workplace socialization; and (iii) skill certification. We further hypothesize that dual VET mitigates the effect of automation risk on social policy preferences. Analyzing cross-national individual data from the European Social Survey and national-level data on education systems, we find strong evidence for our argument. The paper advances the debate on social policy preferences in the age of automation and sheds new light on the relationship between skill specificity and social policy preferences.
 </details>  
-<p> </p>
-
-
-**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/Yesterday's_Model_241024.pdf)** \
-  (with Patrick Emmenegger; under review at *Journal of European Social Policy*)
-<details>
-  <summary>Abstract</summary>
-    
-Dual vocational education and training (VET) is said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy may undermine these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the relationship between dual VET and wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET is associated with lower levels of wage inequality. This negative association is particularly strong in the lower half of the wage distribution, which suggests that academically weaker students are the main beneficiaries of dual VET. Using three different indicators of the knowledge economy, we find, contrary to the fears often espoused in the literature, no clear evidence that the knowledge economy erodes this negative association between dual VET and wage inequality.
-</details>
 <p> </p>
 
 
