@@ -10,7 +10,7 @@ permalink: /research/
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
-**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://matthiashaslberger.github.io/papers/Taxing_Inheritances_rev.pdf)**, 2025, *World Politcs* 77(3), 515-561. \
+**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464)**, 2025, *World Politcs* 77(3), 515-561. \
   (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
 <details>
   <summary>Abstract</summary>
@@ -114,7 +114,7 @@ Despite high and rising levels of wealth inequality, wealth taxes have been redu
 
 
 **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
-  (with Patrick Emmenegger and Anna Wilson; under review at *European Sociological Review*)
+  (with Patrick Emmenegger and Anna Wilson; under review at *Sociology of Education*)
 <details>
   <summary>Abstract</summary>
 
