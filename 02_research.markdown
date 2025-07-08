@@ -113,8 +113,12 @@ Despite high and rising levels of wealth inequality, wealth taxes have been redu
 <p> </p>
 
 
+### Work in Progress
+<p> </p>
+
+
 **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
-  (with Patrick Emmenegger and Anna Wilson; under review at *Sociology of Education*)
+  (with Patrick Emmenegger and Anna Wilson)
 <details>
   <summary>Abstract</summary>
 
@@ -122,9 +126,6 @@ Vocational education and training (VET) has been hailed as a way to address skil
 </details>
 <p> </p>
 
-
-### Work in Progress
-<p> </p>
 
 **Striking the Balance? Firms’ Training Strategies in Response to Generative AI** 
 <details>
