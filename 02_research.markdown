@@ -10,6 +10,26 @@ permalink: /research/
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
+**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://matthiashaslberger.github.io/papers/Tech_Risk_and_VET_Attractiveness_180125.pdf)** \
+  (with Scherwin Bajka; Forthcoming in *Regulation & Governance*)
+<details>
+  <summary>Abstract</summary>
+    
+Education equips individuals with valuable skills to protect them against employment risks associated with the digital transition. As scholars debate whether vocational education and training (VET) or general education better insures against technology-induced employment risk, we ask how this type of risk, as perceived by individuals, shapes their education preferences. Our analyses, based on a survey of over 11,500 respondents across seven European countries, show that VET is regarded as a safe haven by those perceiving heightened risk. This relationship remains robust when controlling for various alternative explanations and is consistent across countries. Subgroup interactions indicate that men, high-income earners, respondents with tertiary education, and those politically on the right more strongly favor VET in response to subjective technology risk. Hence, our study suggests that VET’s practical, job-oriented focus is perceived as better protection against the growing uncertainty over skill demands in the twin transition than general education.
+</details>
+<p> </p>
+
+
+**[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/Yesterday's_Model_241024.pdf)** \
+  (with Patrick Emmenegger; Forthcoming in *Journal of European Social Policy*)
+<details>
+  <summary>Abstract</summary>
+    
+Dual vocational education and training (VET) is said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy may undermine these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the relationship between dual VET and wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET is associated with lower levels of wage inequality. This negative association is particularly strong in the lower half of the wage distribution, which suggests that academically weaker students are the main beneficiaries of dual VET. Using three different indicators of the knowledge economy, we find, contrary to the fears often espoused in the literature, no clear evidence that the knowledge economy erodes this negative association between dual VET and wage inequality.
+</details>
+<p> </p>
+
+
 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464)**, 2025, *World Politcs* 77(3), 515-561. \
   (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
 <details>
@@ -63,26 +83,6 @@ How does novel technology change public policy demands? Scholars interested in t
 <p> </p>
 
 
-**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://matthiashaslberger.github.io/papers/Tech_Risk_and_VET_Attractiveness_180125.pdf)** \
-  (with Scherwin Bajka; R&R at *Regulation & Governance*)
-<details>
-  <summary>Abstract</summary>
-    
-Education equips individuals with valuable skills to protect them against employment risks associated with the digital transition. As scholars debate whether vocational education and training (VET) or general education better insures against technology-induced employment risk, we ask how this type of risk, as perceived by individuals, shapes their education preferences. Our analyses, based on a survey of over 11,500 respondents across seven European countries, show that VET is regarded as a safe haven by those perceiving heightened risk. This relationship remains robust when controlling for various alternative explanations and is consistent across countries. Subgroup interactions indicate that men, high-income earners, respondents with tertiary education, and those politically on the right more strongly favor VET in response to subjective technology risk. Hence, our study suggests that VET’s practical, job-oriented focus is perceived as better protection against the growing uncertainty over skill demands in the twin transition than general education.
-</details>
-<p> </p>
-
-
-**[Yesterday's Model for Tomorrow's Economy? The Effect of Firm-Based VET on Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/Yesterday's_Model_241024.pdf)** \
-  (with Patrick Emmenegger; R&R at *Journal of European Social Policy*)
-<details>
-  <summary>Abstract</summary>
-    
-Dual vocational education and training (VET) is said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy may undermine these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the relationship between dual VET and wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET is associated with lower levels of wage inequality. This negative association is particularly strong in the lower half of the wage distribution, which suggests that academically weaker students are the main beneficiaries of dual VET. Using three different indicators of the knowledge economy, we find, contrary to the fears often espoused in the literature, no clear evidence that the knowledge economy erodes this negative association between dual VET and wage inequality.
-</details>
-<p> </p>
-
-
 **[No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
   (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*) 
 <details>
@@ -104,7 +104,7 @@ How does technological change affect social policy preferences? We advance this 
 
 
 **[Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information](https://matthiashaslberger.github.io/papers/Wealth_Tax_Preferences_130425.pdf)** \
-  (with Ben Ansell and Mads Elkjaer; under review at *British Journal of Political Science*)
+  (with Ben Ansell and Mads Elkjaer; under review at *European Journal of Political Research*)
 <details>
   <summary>Abstract</summary>
     
@@ -113,17 +113,27 @@ Despite high and rising levels of wealth inequality, wealth taxes have been redu
 <p> </p>
 
 
-### Work in Progress
-<p> </p>
+**Housing and Political Efficacy** \
+  (with Mads Elkjaer and Ben Ansell; under review at *West European Politics*) 
+<details>
+  <summary>Abstract</summary>
+    
+It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth - in particular, housing wealth - has thus far been ignored in this literature. We theorise that housing performs several functions that increase political efficacy and test our arguments using data from three large representative surveys administered in the UK. We first argue that housing wealth provides a form of "self-insurance", which on the one hand facilitates civic engagement, and on the other hand raises people's stakes in the political process. In line with this argument, we find that homeowners, owners of more valuable houses, owners who have paid off their mortgage, and individuals who believe themselves to be higher in the housing wealth distribution all exhibit higher efficacy. Based on the literature on status expectations and the politics of resentment, we furthermore investigate whether intergenerational housing mobility affects political efficacy. However, we find no evidence that upward or downward intergenerational housing mobility affects efficacy beyond the first-order effect of homeownership. Finally, we study whether stronger local ties explain the higher efficacy of homeowners. Again, however, we find no evidence that length of tenancy in the area affects homeowners and renters differently. The results of this study show that housing - and by extension wealth more generally - constitutes a hitherto neglected but crucial determinant of political efficacy, chiefly by providing security which enables and incentivises engagement.
+</details>
+<p> </p> 
 
 
 **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
-  (with Patrick Emmenegger and Anna Wilson)
+  (with Patrick Emmenegger and Anna Wilson; under review at *Sociology of Education*)
 <details>
   <summary>Abstract</summary>
 
 Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. Consequently, VET policy initiatives have proliferated in recent years. However, little is known about the factors influencing the choice between VET and general education. In this study, we examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. Respondents were asked to assign fictitious 15-year-olds to either VET or general education based on achieved (performance in school and motivation) and ascribed characteristics (sociodemographic variables). Our findings show that respondents recommend students with low grades and little motivation to pursue VET. These effects weaken, but do not disappear, among respondents who favor VET in terms of future labor market outcomes. Additionally, we find that boys, working-class students, and students from outside big cities are advised to pursue VET. However, the effect of achievement is more important than the effect of ascription. These patterns are consistent across countries and subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral in which the relative unattractiveness of VET and academic drift reinforce each other.
 </details>
+<p> </p>
+
+
+### Work in Progress
 <p> </p>
 
 
@@ -136,11 +146,6 @@ Practical learning from experts is key to the mastery of almost any job. It cons
 <p> </p>
 
 
-**Housing and Political Efficacy** \
-  (with Mads Elkjaer and Ben Ansell) 
-<details>
-  <summary>Abstract</summary>
-    
-It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth - in particular, housing wealth - has thus far been ignored in this literature. We theorise that housing performs several functions that increase political efficacy and test our arguments using data from three large representative surveys administered in the UK. We first argue that housing wealth provides a form of "self-insurance", which on the one hand facilitates civic engagement, and on the other hand raises people's stakes in the political process. In line with this argument, we find that homeowners, owners of more valuable houses, owners who have paid off their mortgage, and individuals who believe themselves to be higher in the housing wealth distribution all exhibit higher efficacy. Based on the literature on status expectations and the politics of resentment, we furthermore investigate whether intergenerational housing mobility affects political efficacy. However, we find no evidence that upward or downward intergenerational housing mobility affects efficacy beyond the first-order effect of homeownership. Finally, we study whether stronger local ties explain the higher efficacy of homeowners. Again, however, we find no evidence that length of tenancy in the area affects homeowners and renters differently. The results of this study show that housing - and by extension wealth more generally - constitutes a hitherto neglected but crucial determinant of political efficacy, chiefly by providing security which enables and incentivises engagement.
-</details>
-<p> </p> 
+**Social Protection in the Age of Artificial Intelligence: How Do People Reason?** \
+(with Jasmine Bhatia, Patrick Emmenegger, and Jane Gingrich)
+
