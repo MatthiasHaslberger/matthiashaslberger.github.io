@@ -10,12 +10,12 @@ permalink: /research/
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
-**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://matthiashaslberger.github.io/papers/Tech_Risk_and_VET_Attractiveness_180125.pdf)** \
-  (with Scherwin Bajka; Forthcoming in *Regulation & Governance*)
+**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067)**, 2025, *Regulation & Governance* \
+  (with Scherwin Bajka)
 <details>
   <summary>Abstract</summary>
     
-Education equips individuals with valuable skills to protect them against employment risks associated with the digital transition. As scholars debate whether vocational education and training (VET) or general education better insures against technology-induced employment risk, we ask how this type of risk, as perceived by individuals, shapes their education preferences. Our analyses, based on a survey of over 11,500 respondents across seven European countries, show that VET is regarded as a safe haven by those perceiving heightened risk. This relationship remains robust when controlling for various alternative explanations and is consistent across countries. Subgroup interactions indicate that men, high-income earners, respondents with tertiary education, and those politically on the right more strongly favor VET in response to subjective technology risk. Hence, our study suggests that VET’s practical, job-oriented focus is perceived as better protection against the growing uncertainty over skill demands in the twin transition than general education.
+Education equips individuals with valuable skills to protect them against employment risks associated with the digital transition. As scholars debate whether vocational education and training (VET) or general education better insures against technology-induced employment risk, we ask how this type of risk, as perceived by individuals, shapes their education preferences. Our analyses, based on a survey of over 11,500 respondents across seven European countries, show that VET is regarded as a safe haven by those perceiving heightened risk. This relationship remains robust when controlling for various alternative explanations and is consistent across countries. Subgroup interactions indicate that men, high-income earners, respondents with tertiary education, and those politically on the right more strongly favor VET in response to subjective technology risk. Hence, our study suggests that VET's practical, job-oriented focus is perceived as better protection against the growing uncertainty over skill demands in the twin transition than general education.
 </details>
 <p> </p>
 
@@ -104,7 +104,7 @@ How does technological change affect social policy preferences? We advance this 
 
 
 **[Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information](https://matthiashaslberger.github.io/papers/Wealth_Tax_Preferences_130425.pdf)** \
-  (with Ben Ansell and Mads Elkjaer; under review at *European Journal of Political Research*)
+  (with Ben Ansell and Mads Elkjaer)
 <details>
   <summary>Abstract</summary>
     
@@ -148,4 +148,8 @@ Practical learning from experts is key to the mastery of almost any job. It cons
 
 **Social Protection in the Age of Artificial Intelligence: How Do People Reason?** \
 (with Jasmine Bhatia, Patrick Emmenegger, and Jane Gingrich)
+
+
+**Experimental Evidence on Perceptions of Inequality and Tax Preferences** \
+(with Mads Elkjaer)
 
