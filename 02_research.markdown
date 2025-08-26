@@ -10,22 +10,22 @@ permalink: /research/
 ### Publications in Peer-Reviewed Journals
 <p> </p>
 
-**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067)**, 2025, *Regulation & Governance* \
+
+**[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494)**, 2025, *Journal of European Social Policy.* \
+  (with Patrick Emmenegger)
+<details>
+  <summary>Abstract</summary>
+    
+Dual vocational education and training (VET) is said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy may undermine these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the relationship between dual VET and wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET is associated with lower levels of wage inequality. This negative association is particularly strong in the lower half of the wage distribution, which suggests that academically weaker students are the main beneficiaries of dual VET. Using three different indicators of the knowledge economy, we find, contrary to the fears often espoused in the literature, no clear evidence that the knowledge economy erodes this negative association between dual VET and wage inequality.
+</details>
+<p> </p>
+
+**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067)**, 2025, *Regulation & Governance.* \
   (with Scherwin Bajka)
 <details>
   <summary>Abstract</summary>
     
 Education equips individuals with valuable skills to protect them against employment risks associated with the digital transition. As scholars debate whether vocational education and training (VET) or general education better insures against technology-induced employment risk, we ask how this type of risk, as perceived by individuals, shapes their education preferences. Our analyses, based on a survey of over 11,500 respondents across seven European countries, show that VET is regarded as a safe haven by those perceiving heightened risk. This relationship remains robust when controlling for various alternative explanations and is consistent across countries. Subgroup interactions indicate that men, high-income earners, respondents with tertiary education, and those politically on the right more strongly favor VET in response to subjective technology risk. Hence, our study suggests that VET's practical, job-oriented focus is perceived as better protection against the growing uncertainty over skill demands in the twin transition than general education.
-</details>
-<p> </p>
-
-
-**[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://matthiashaslberger.github.io/papers/Yesterday's_Model_241024.pdf)** \
-  (with Patrick Emmenegger; Forthcoming in *Journal of European Social Policy*)
-<details>
-  <summary>Abstract</summary>
-    
-Dual vocational education and training (VET) is said to have positive economic effects. However, recent contributions suggest that the rise of the knowledge economy may undermine these positive effects because university-educated workers are better suited for the new knowledge-intensive jobs. This paper provides the first evidence on the relationship between dual VET and wage inequality in mature knowledge economies. Using a new dataset on 37 advanced economies from 1996 to 2020, we find that dual VET is associated with lower levels of wage inequality. This negative association is particularly strong in the lower half of the wage distribution, which suggests that academically weaker students are the main beneficiaries of dual VET. Using three different indicators of the knowledge economy, we find, contrary to the fears often espoused in the literature, no clear evidence that the knowledge economy erodes this negative association between dual VET and wage inequality.
 </details>
 <p> </p>
 
