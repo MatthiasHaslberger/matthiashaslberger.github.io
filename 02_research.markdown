@@ -11,6 +11,16 @@ permalink: /research/
 <p> </p>
 
 
+**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)**, forthcoming, *Journal of European Public Policy.* \
+  (with Jasmine Bhatia and Jane Gingrich) 
+<details>
+  <summary>Abstract</summary>
+
+How does novel technology change public policy demands? Scholars interested in the effect of automation on policy preferences have commonly argued that exposure to automation technology increases subjective risk, which in turn predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a sample of 1,041 UK working-age adults we show that direct exposure to generative AI in realistic work tasks does not increase subjective risk but does strengthen support for activating social policy. To understand this constellation of attitudes, we argue that exposure to technology may activate sociotropic preferences to support individuals who might be negatively affected by AI. Text analysis shows cautious optimism and thoughtful engagement with the implications of AI for work and social policy. Our findings suggest that the current uncertainty over the relative winners and losers from AI opens a window of opportunity to expand activating social policies.
+</details>
+<p> </p>
+
+
 **[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494)**, 2025, *Journal of European Social Policy.* \
   (with Patrick Emmenegger)
 <details>
@@ -70,16 +80,6 @@ This article deals with a central paradox in the occupational polarisation liter
 
 
 ### Working Papers
-<p> </p>
-
-
-**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876736)** \
-  (with Jasmine Bhatia and Jane Gingrich; R&R at *Journal of European Public Policy*) 
-<details>
-  <summary>Abstract</summary>
-
-How does novel technology change public policy demands? Scholars interested in the effect of automation on policy preferences have commonly argued that exposure to automation technology increases subjective risk, which in turn predicts demand for insurance. Generative AI potentially challenges this dynamic. Based on a pre-registered online experiment with a sample of 1,041 UK working-age adults we show that direct exposure to generative AI in realistic work tasks does not increase subjective risk but does strengthen support for activating social policy. To understand this constellation of attitudes, we argue that exposure to technology may activate sociotropic preferences to support individuals who might be negatively affected by AI. Text analysis shows cautious optimism and thoughtful engagement with the implications of AI for work and social policy. Our findings suggest that the current uncertainty over the relative winners and losers from AI opens a window of opportunity to expand activating social policies.
-</details>
 <p> </p>
 
 
