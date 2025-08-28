@@ -16,4 +16,4 @@ My research is rooted in Comparative Political Economy, but straddles different 
 
 I believe that research should not be confined to the ivory tower and regularly engage with policymakers, practitioners, and journalists. 
 
-If you are interested in my research, feel free to reach out via [email](mailto:matthias.haslberger@unisg.ch) or [X](https://twitter.com/matt_haslberger){:target="_blank"}. 
+If you are interested in my research, feel free to reach out via [email](mailto:matthias.haslberger@unisg.ch), [X](https://twitter.com/matt_haslberger){:target="_blank"}, or [Bluesky](https://bsky.app/profile/mhaslberger.bsky.social). 
