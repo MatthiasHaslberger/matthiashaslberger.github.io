@@ -9,12 +9,11 @@ Feel free to reach out if you are interested in my research: \
 E-mail: [matthias.haslberger@politics.ox.ac.uk](mailto:matthias.haslberger@politics.ox.ac.uk) \
 Twitter: [@matt_haslberger](https://twitter.com/matt_haslberger){:target="_blank"}
 
-**Department of Politics and International Relations** \
-University of Oxford \
-Manor Road Building \
-Manor Road \
-Oxford, OX1 3UQ \
-United Kingdom 
+**School of Economics and Political Science** \
+University of St. Gallen \
+Müller-Friedberg Strasse 8 \
+9000 St. Gallen \
+Switzerland 
 
 
 **Nuffield College** \
