@@ -22,7 +22,8 @@ How does novel technology change public policy demands? Scholars interested in t
 
 
 **[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494)**, 2025, *Journal of European Social Policy.* \
-  (with Patrick Emmenegger)
+  (with Patrick Emmenegger) \
+  [Replication Data](https://doi.org/10.7910/DVN/DG7PB9){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
     
@@ -41,7 +42,8 @@ Education equips individuals with valuable skills to protect them against employ
 
 
 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464)**, 2025, *World Politcs* 77(3), 515-561. \
-  (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) 
+  (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) \
+  [Replication Data](https://doi.org/10.7910/DVN/L6HYCL){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
@@ -93,7 +95,7 @@ An emerging consensus holds that generative artificial intelligence (AI) equaliz
 <p> </p>
 
 
-**[The Missing Link: Technological Change, Dual VET, and Social Policy Preferences](https://matthiashaslberger.github.io/papers/Missing_Link_051224.pdf)** \
+**The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
   (with Patrick Emmenegger and Niccolo Durazzi; under review at *British Journal of Political Science*)
 <details>
   <summary>Abstract</summary>
@@ -103,7 +105,7 @@ How does technological change affect social policy preferences? We advance this 
 <p> </p>
 
 
-**[Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information](https://matthiashaslberger.github.io/papers/Wealth_Tax_Preferences_130425.pdf)** \
+**Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information** \
   (with Ben Ansell and Mads Elkjaer)
 <details>
   <summary>Abstract</summary>
