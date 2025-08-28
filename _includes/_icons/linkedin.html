@@ -1,0 +1,7 @@
+{%- assign slug  = include.username -%}
+{%- assign label = include.label | default: include.username -%}
+<a href="https://www.linkedin.com/in/{{ slug | cgi_escape | escape }}"
+   rel="me noopener noreferrer" class="contact-link">
+  {% include _icons/linkedin.svg %}
+  <span class="username">{{ label | escape }}</span>
+</a>
