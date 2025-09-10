@@ -11,7 +11,7 @@ permalink: /research/
 <p> </p>
 
 
-**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2554903)**, 2025, *Journal of European Public Policy.* \
+**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2554903){: .button}{:target="_blank"}**, 2025, *Journal of European Public Policy.* \
   (with Jasmine Bhatia and Jane Gingrich) \
   [Replication Data](https://doi.org/10.7910/DVN/YOSGEL){: .button}{:target="_blank"}
 <details>
