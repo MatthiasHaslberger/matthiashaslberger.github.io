@@ -22,7 +22,7 @@ How does novel technology change public policy demands? Scholars interested in t
 <p> </p>
 
 
-**[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494)**, 2025, *Journal of European Social Policy.* \
+**[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494){:target="_blank"}**, 2025, *Journal of European Social Policy.* \
   (with Patrick Emmenegger) \
   [Dual VET Dataset](https://doi.org/10.7910/DVN/DG7PB9){: .button}{:target="_blank"}
 <details>
