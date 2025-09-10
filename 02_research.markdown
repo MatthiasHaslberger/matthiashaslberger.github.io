@@ -11,7 +11,7 @@ permalink: /research/
 <p> </p>
 
 
-**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2554903){: .button}{:target="_blank"}**, 2025, *Journal of European Public Policy.* \
+**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2554903){: target="_blank" rel="noopener"}**, 2025, *Journal of European Public Policy.* \
   (with Jasmine Bhatia and Jane Gingrich) \
   [Replication Data](https://doi.org/10.7910/DVN/YOSGEL){: .button}{:target="_blank"}
 <details>
@@ -22,7 +22,7 @@ How does novel technology change public policy demands? Scholars interested in t
 <p> </p>
 
 
-**[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494){:target="_blank"}**, 2025, *Journal of European Social Policy.* \
+**[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494){: target="_blank" rel="noopener"}**, 2025, *Journal of European Social Policy.* \
   (with Patrick Emmenegger) \
   [Dual VET Dataset](https://doi.org/10.7910/DVN/DG7PB9){: .button}{:target="_blank"}
 <details>
@@ -32,7 +32,7 @@ Dual vocational education and training (VET) is said to have positive economic e
 </details>
 <p> </p>
 
-**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067)**, 2025, *Regulation & Governance.* \
+**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067){: target="_blank" rel="noopener"}**, 2025, *Regulation & Governance.* \
   (with Scherwin Bajka)
 <details>
   <summary>Abstract</summary>
@@ -42,7 +42,7 @@ Education equips individuals with valuable skills to protect them against employ
 <p> </p>
 
 
-**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464)**, 2025, *World Politcs* 77(3), 515-561. \
+**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464){: target="_blank" rel="noopener"}**, 2025, *World Politcs* 77(3), 515-561. \
   (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) \
   [Replication Data](https://doi.org/10.7910/DVN/L6HYCL){: .button}{:target="_blank"}
 <details>
@@ -53,7 +53,7 @@ It has long been established that education and income affect people's political
 <p> </p> 
 
 
-**[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186)**, 2023, *Comparative Politics* 55(2), 193-218. \
+**[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186){: target="_blank" rel="noopener"}**, 2023, *Comparative Politics* 55(2), 193-218. \
 (with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
 <details>
   <summary>Abstract</summary>
@@ -63,7 +63,7 @@ The massification of secondary schooling constitutes the key educational project
 <p> </p>  
 
 
-**[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095)**, 2022, *The Economic and Labour Relations Review* 33(1), 178-199. \
+**[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095){: target="_blank" rel="noopener"}**, 2022, *The Economic and Labour Relations Review* 33(1), 178-199. \
 [Replication Data](https://doi.org/10.7910/DVN/JABYD7){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -73,7 +73,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 <p> </p>
 
 
-**[Routine-biased technological change does not always lead to polarisation: Evidence from 10 OECD countries, 1995–2013](https://www.sciencedirect.com/science/article/abs/pii/S0276562421000433?via%3Dihub)**, 2021, *Research in Social Stratification and Mobility* 74 (August 2021).
+**[Routine-biased technological change does not always lead to polarisation: Evidence from 10 OECD countries, 1995–2013](https://www.sciencedirect.com/science/article/abs/pii/S0276562421000433?via%3Dihub){: target="_blank" rel="noopener"}**, 2021, *Research in Social Stratification and Mobility* 74 (August 2021).
 <details>
   <summary>Abstract</summary>
   
@@ -86,7 +86,7 @@ This article deals with a central paradox in the occupational polarisation liter
 <p> </p>
 
 
-**[No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466)** \
+**[No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466){: target="_blank" rel="noopener"}** \
   (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*) 
 <details>
   <summary>Abstract</summary>
