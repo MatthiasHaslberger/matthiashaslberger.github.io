@@ -86,8 +86,18 @@ This article deals with a central paradox in the occupational polarisation liter
 <p> </p>
 
 
+**Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
+  (with Patrick Emmenegger and Anna Wilson; Revise and Resubmit at *Sociology of Education*)
+<details>
+  <summary>Abstract</summary>
+
+Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. Consequently, VET policy initiatives have proliferated in recent years. However, little is known about the factors influencing the choice between VET and general education. In this study, we examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. Respondents were asked to assign fictitious 15-year-olds to either VET or general education based on achieved (performance in school and motivation) and ascribed characteristics (sociodemographic variables). Our findings show that respondents recommend students with low grades and little motivation to pursue VET. These effects weaken, but do not disappear, among respondents who favor VET in terms of future labor market outcomes. Additionally, we find that boys, working-class students, and students from outside big cities are advised to pursue VET. However, the effect of achievement is more important than the effect of ascription. These patterns are consistent across countries and subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral in which the relative unattractiveness of VET and academic drift reinforce each other.
+</details>
+<p> </p>
+
+
 **[No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466){: target="_blank" rel="noopener"}** \
-  (with Jane Gingrich and Jasmine Bhatia; under review at *Research Policy*) 
+  (with Jane Gingrich and Jasmine Bhatia; Under Review) 
 <details>
   <summary>Abstract</summary>
 
@@ -97,7 +107,7 @@ An emerging consensus holds that generative artificial intelligence (AI) equaliz
 
 
 **The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
-  (with Patrick Emmenegger and Niccolo Durazzi; under review at *British Journal of Political Science*)
+  (with Patrick Emmenegger and Niccolo Durazzi; Under Review)
 <details>
   <summary>Abstract</summary>
     
@@ -107,7 +117,7 @@ How does technological change affect social policy preferences? We advance this 
 
 
 **Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information** \
-  (with Ben Ansell and Mads Elkjaer)
+  (with Ben Ansell and Mads Elkjaer; Under Review)
 <details>
   <summary>Abstract</summary>
     
@@ -117,23 +127,13 @@ Despite high and rising levels of wealth inequality, wealth taxes have been redu
 
 
 **Housing and Political Efficacy** \
-  (with Mads Elkjaer and Ben Ansell; under review at *West European Politics*) 
+  (with Mads Elkjaer and Ben Ansell; Under Review) 
 <details>
   <summary>Abstract</summary>
     
 It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth - in particular, housing wealth - has thus far been ignored in this literature. We theorise that housing performs several functions that increase political efficacy and test our arguments using data from three large representative surveys administered in the UK. We first argue that housing wealth provides a form of "self-insurance", which on the one hand facilitates civic engagement, and on the other hand raises people's stakes in the political process. In line with this argument, we find that homeowners, owners of more valuable houses, owners who have paid off their mortgage, and individuals who believe themselves to be higher in the housing wealth distribution all exhibit higher efficacy. Based on the literature on status expectations and the politics of resentment, we furthermore investigate whether intergenerational housing mobility affects political efficacy. However, we find no evidence that upward or downward intergenerational housing mobility affects efficacy beyond the first-order effect of homeownership. Finally, we study whether stronger local ties explain the higher efficacy of homeowners. Again, however, we find no evidence that length of tenancy in the area affects homeowners and renters differently. The results of this study show that housing - and by extension wealth more generally - constitutes a hitherto neglected but crucial determinant of political efficacy, chiefly by providing security which enables and incentivises engagement.
 </details>
 <p> </p> 
-
-
-**Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
-  (with Patrick Emmenegger and Anna Wilson; under review at *Sociology of Education*)
-<details>
-  <summary>Abstract</summary>
-
-Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. Consequently, VET policy initiatives have proliferated in recent years. However, little is known about the factors influencing the choice between VET and general education. In this study, we examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. Respondents were asked to assign fictitious 15-year-olds to either VET or general education based on achieved (performance in school and motivation) and ascribed characteristics (sociodemographic variables). Our findings show that respondents recommend students with low grades and little motivation to pursue VET. These effects weaken, but do not disappear, among respondents who favor VET in terms of future labor market outcomes. Additionally, we find that boys, working-class students, and students from outside big cities are advised to pursue VET. However, the effect of achievement is more important than the effect of ascription. These patterns are consistent across countries and subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral in which the relative unattractiveness of VET and academic drift reinforce each other.
-</details>
-<p> </p>
 
 
 ### Work in Progress
