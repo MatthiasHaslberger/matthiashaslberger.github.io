@@ -86,6 +86,16 @@ This article deals with a central paradox in the occupational polarisation liter
 <p> </p>
 
 
+**Homeownership and Political Efficacy: How Housing Wealth Shapes Whether People Feel Heard** \
+  (with Mads Elkjaer and Ben Ansell; Revise and Resubmit at *West European Politics*) 
+<details>
+  <summary>Abstract</summary>
+    
+Why do some citizens feel that political institutions are responsive to people like them, while others do not? Existing research highlights the role of education and income in shaping external political efficacy, but little is known about the role of wealth. We argue that homeownership serves as a key marker of economic and social success, shaping perceptions of political inclusion, particularly in later life. While younger renters may still aspire to homeownership, older renters are more likely to confront the realization that they will never make it onto the property ladder, undermining their efficacy. We test this argument using original survey data from over 10,000 adults in the United Kingdom. Our findings show that homeownership is positively associated with external political efficacy, particularly among older individuals. These results underscore housing wealth as a critical driver of political inclusion and highlight its broader implications for democratic legitimacy in unequal societies.
+</details>
+<p> </p> 
+
+
 **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
   (with Patrick Emmenegger and Anna Wilson; Revise and Resubmit at *Sociology of Education*)
 <details>
@@ -124,16 +134,6 @@ How does technological change affect social policy preferences? We advance this 
 Despite high and rising levels of wealth inequality, wealth taxes have been reduced in many countries. While existing explanations focus on structural factors, we argue that public opposition to wealth taxes among homeowners has contributed to creating a political playing field that facilitates low wealth taxes. This opposition is aided by  information asymmetries, which prevent low-wealth renters from formulating preferences that align with their material self-interest. Utilizing original survey data from Denmark, France, Germany, Ireland, Italy, the Netherlands, and Sweden, we find empirical support for our thesis. Housing wealth increases the likelihood of stating a preference on wealth taxation, and homeowners and their children support less progressive taxation of inheritances, wealth, and capital gains. The paper helps us understand why, despite pronounced inequality in asset ownership, wealth taxation has fallen out of favor among democratically elected governments.
 </details>
 <p> </p>
-
-
-**Housing and Political Efficacy** \
-  (with Mads Elkjaer and Ben Ansell; Under Review) 
-<details>
-  <summary>Abstract</summary>
-    
-It has long been established that education and income affect people's political efficacy. Surprisingly, the role of wealth - in particular, housing wealth - has thus far been ignored in this literature. We theorise that housing performs several functions that increase political efficacy and test our arguments using data from three large representative surveys administered in the UK. We first argue that housing wealth provides a form of "self-insurance", which on the one hand facilitates civic engagement, and on the other hand raises people's stakes in the political process. In line with this argument, we find that homeowners, owners of more valuable houses, owners who have paid off their mortgage, and individuals who believe themselves to be higher in the housing wealth distribution all exhibit higher efficacy. Based on the literature on status expectations and the politics of resentment, we furthermore investigate whether intergenerational housing mobility affects political efficacy. However, we find no evidence that upward or downward intergenerational housing mobility affects efficacy beyond the first-order effect of homeownership. Finally, we study whether stronger local ties explain the higher efficacy of homeowners. Again, however, we find no evidence that length of tenancy in the area affects homeowners and renters differently. The results of this study show that housing - and by extension wealth more generally - constitutes a hitherto neglected but crucial determinant of political efficacy, chiefly by providing security which enables and incentivises engagement.
-</details>
-<p> </p> 
 
 
 ### Work in Progress
