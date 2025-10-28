@@ -30,7 +30,7 @@ Dual vocational education and training (VET) is said to have positive economic e
 </details>
 <p> </p>
 
-**Matthias Haslberger**, Scherwin M. Bajka. 2025. **[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067){: target="_blank" rel="noopener"}**, *Regulation & Governance.* \
+**Matthias Haslberger**, Scherwin M. Bajka. 2025. **[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067){: target="_blank" rel="noopener"}**, *Regulation & Governance.* 
 <details>
   <summary>Abstract</summary>
     
@@ -49,7 +49,7 @@ It has long been established that education and income affect people's political
 <p> </p> 
 
 
-Anja Giudici, Jane Gingrich, Tom Chevalier, **Matthias Haslberger**. 2023. **[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186){: target="_blank" rel="noopener"}**, *Comparative Politics* 55(2), 193-218. \
+Anja Giudici, Jane Gingrich, Tom Chevalier, **Matthias Haslberger**. 2023. **[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186){: target="_blank" rel="noopener"}**, *Comparative Politics* 55(2), 193-218. 
 <details>
   <summary>Abstract</summary>
   
