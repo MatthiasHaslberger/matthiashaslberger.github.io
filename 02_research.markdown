@@ -149,6 +149,20 @@ Practical learning from experts is key to the mastery of almost any job. It cons
 (with Jasmine Bhatia, Patrick Emmenegger, and Jane Gingrich)
 
 
-**Experimental Evidence on Perceptions of Inequality and Tax Preferences** \
+**The New Politics of Artificial Intelligence** \
+(with Shir Raviv)
+
+
+**Perceptions of Inequality in Europe** \
 (with Mads Elkjaer)
 
+
+**Housing Wealth and Tax Mix Preferences** \
+(with Mads Elkjaer)
+
+
+### Book Reviews
+<p> </p>
+
+
+Neil Lee. 2024. **[Innovation for the masses: How to share the benefits of the high‐tech economy](https://onlinelibrary.wiley.com/doi/full/10.1111/spol.13062){: target="_blank" rel="noopener"}**. Reviewed for Social Policy & Administration. 
