@@ -11,8 +11,7 @@ permalink: /research/
 <p> </p>
 
 
-**[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2554903){: target="_blank" rel="noopener"}**, 2025, *Journal of European Public Policy.* \
-  (with Jasmine Bhatia and Jane Gingrich) \
+**Matthias Haslberger**, Jane Gingrich, Jasmine Bhatia. 2025. **[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2554903){: target="_blank" rel="noopener"}**. *Journal of European Public Policy.* \
   [Replication Data](https://doi.org/10.7910/DVN/YOSGEL){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -22,8 +21,7 @@ How does novel technology change public policy demands? Scholars interested in t
 <p> </p>
 
 
-**[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494){: target="_blank" rel="noopener"}**, 2025, *Journal of European Social Policy.* \
-  (with Patrick Emmenegger) \
+Patrick Emmenegger, **Matthias Haslberger**. 2025. **[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494){: target="_blank" rel="noopener"}**, *Journal of European Social Policy.* \
   [Dual VET Dataset](https://doi.org/10.7910/DVN/DG7PB9){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -32,8 +30,7 @@ Dual vocational education and training (VET) is said to have positive economic e
 </details>
 <p> </p>
 
-**[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067){: target="_blank" rel="noopener"}**, 2025, *Regulation & Governance.* \
-  (with Scherwin Bajka)
+**Matthias Haslberger**, Scherwin M. Bajka. 2025. **[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067){: target="_blank" rel="noopener"}**, *Regulation & Governance.* \
 <details>
   <summary>Abstract</summary>
     
@@ -42,8 +39,7 @@ Education equips individuals with valuable skills to protect them against employ
 <p> </p>
 
 
-**[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464){: target="_blank" rel="noopener"}**, 2025, *World Politcs* 77(3), 515-561. \
-  (with Ben Ansell, Laure Bokobza, Asli Cansunar, Mads Elkjaer, and Jacob Nyrup) \
+Mads Elkjaer, Ben Ansell, Laure Bokobza, Asli Cansunar, **Matthias Haslberger**, Jacob Nyrup. 2025 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464){: target="_blank" rel="noopener"}**, *World Politcs* 77(3), 515-561. \
   [Replication Data](https://doi.org/10.7910/DVN/L6HYCL){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -53,8 +49,7 @@ It has long been established that education and income affect people's political
 <p> </p> 
 
 
-**[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186){: target="_blank" rel="noopener"}**, 2023, *Comparative Politics* 55(2), 193-218. \
-(with Jane Gingrich, Anja Giudici, and Tom Chevalier) 
+Anja Giudici, Jane Gingrich, Tom Chevalier, **Matthias Haslberger**. 2023. **[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186){: target="_blank" rel="noopener"}**, *Comparative Politics* 55(2), 193-218. \
 <details>
   <summary>Abstract</summary>
   
@@ -63,7 +58,7 @@ The massification of secondary schooling constitutes the key educational project
 <p> </p>  
 
 
-**[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095){: target="_blank" rel="noopener"}**, 2022, *The Economic and Labour Relations Review* 33(1), 178-199. \
+**Matthias Haslberger**. 2022. **[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095){: target="_blank" rel="noopener"}**, *The Economic and Labour Relations Review* 33(1), 178-199. \
 [Replication Data](https://doi.org/10.7910/DVN/JABYD7){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -73,7 +68,7 @@ Which tasks workers perform on their jobs is critical for how technological chan
 <p> </p>
 
 
-**[Routine-biased technological change does not always lead to polarisation: Evidence from 10 OECD countries, 1995–2013](https://www.sciencedirect.com/science/article/abs/pii/S0276562421000433?via%3Dihub){: target="_blank" rel="noopener"}**, 2021, *Research in Social Stratification and Mobility* 74 (August 2021).
+**Matthias Haslberger**. 2021. **[Routine-biased technological change does not always lead to polarisation: Evidence from 10 OECD countries, 1995–2013](https://www.sciencedirect.com/science/article/abs/pii/S0276562421000433?via%3Dihub){: target="_blank" rel="noopener"}**, *Research in Social Stratification and Mobility* 74 (August 2021).
 <details>
   <summary>Abstract</summary>
   
@@ -82,42 +77,12 @@ This article deals with a central paradox in the occupational polarisation liter
 <p> </p>  
 
 
-### Working Papers
+### Papers under Review
 <p> </p>
 
 
-**Homeownership and Political Efficacy: How Housing Wealth Shapes Whether People Feel Heard** \
-  (with Mads Elkjaer and Ben Ansell; Revise and Resubmit at *West European Politics*) 
-<details>
-  <summary>Abstract</summary>
-    
-Why do some citizens feel that political institutions are responsive to people like them, while others do not? Existing research highlights the role of education and income in shaping external political efficacy, but little is known about the role of wealth. We argue that homeownership serves as a key marker of economic and social success, shaping perceptions of political inclusion, particularly in later life. While younger renters may still aspire to homeownership, older renters are more likely to confront the realization that they will never make it onto the property ladder, undermining their efficacy. We test this argument using original survey data from over 10,000 adults in the United Kingdom. Our findings show that homeownership is positively associated with external political efficacy, particularly among older individuals. These results underscore housing wealth as a critical driver of political inclusion and highlight its broader implications for democratic legitimacy in unequal societies.
-</details>
-<p> </p> 
-
-
-**Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
-  (with Patrick Emmenegger and Anna Wilson; Revise and Resubmit at *Sociology of Education*)
-<details>
-  <summary>Abstract</summary>
-
-Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. Consequently, VET policy initiatives have proliferated in recent years. However, little is known about the factors influencing the choice between VET and general education. In this study, we examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. Respondents were asked to assign fictitious 15-year-olds to either VET or general education based on achieved (performance in school and motivation) and ascribed characteristics (sociodemographic variables). Our findings show that respondents recommend students with low grades and little motivation to pursue VET. These effects weaken, but do not disappear, among respondents who favor VET in terms of future labor market outcomes. Additionally, we find that boys, working-class students, and students from outside big cities are advised to pursue VET. However, the effect of achievement is more important than the effect of ascription. These patterns are consistent across countries and subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral in which the relative unattractiveness of VET and academic drift reinforce each other.
-</details>
-<p> </p>
-
-
-**[No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466){: target="_blank" rel="noopener"}** \
-  (with Jane Gingrich and Jasmine Bhatia; Under Review) 
-<details>
-  <summary>Abstract</summary>
-
-An emerging consensus holds that generative artificial intelligence (AI) equalizes workers’ performance within tasks, reducing productivity differences across workers. Existing research has largely studied productivity within single occupational groups and task structures. Whether this equalizing pattern generalizes to the labor market at large remains unclear. Observed performance equalization within groups of workers is compatible with both increasing and decreasing inequality between groups. To distinguish these outcomes, we conducted a large pre-registered online experiment with a sample of the UK working age population which randomly assigned participants to treatments that encouraged or discouraged the use of ChatGPT and then asked them to complete a set of realistic work tasks. We find that ChatGPT use increased productivity in all tasks, with greater benefits observed in more complex and less ambiguous tasks. However, compression effects between tasks were limited. Moreover, ChatGPT use did not affect productivity differentials between gender, age, educational or occupational groups.
-</details>
-<p> </p>
-
-
-**The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
-  (with Patrick Emmenegger and Niccolo Durazzi; Under Review)
+**Matthias Haslberger**, Patrick Emmenegger, Niccolo Durazzi. **The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
+  (Revise and Resubmit at *British Journal of Political Science*)
 <details>
   <summary>Abstract</summary>
     
@@ -126,8 +91,39 @@ How does technological change affect social policy preferences? We advance this 
 <p> </p>
 
 
-**Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information** \
-  (with Ben Ansell and Mads Elkjaer; Under Review)
+**Matthias Haslberger**, Mads Elkjaer, Ben Ansell. **Homeownership and Political Efficacy: How Housing Wealth Shapes Whether People Feel Heard** \
+  (Revise and Resubmit at *West European Politics*) 
+<details>
+  <summary>Abstract</summary>
+    
+Why do some citizens feel that political institutions are responsive to people like them, while others do not? Existing research highlights the role of education and income in shaping external political efficacy, but little is known about the role of wealth. We argue that homeownership serves as a key marker of economic and social success, shaping perceptions of political inclusion, particularly in later life. While younger renters may still aspire to homeownership, older renters are more likely to confront the realization that they will never make it onto the property ladder, undermining their efficacy. We test this argument using original survey data from over 10,000 adults in the United Kingdom. Our findings show that homeownership is positively associated with external political efficacy, particularly among older individuals. These results underscore housing wealth as a critical driver of political inclusion and highlight its broader implications for democratic legitimacy in unequal societies.
+</details>
+<p> </p> 
+
+
+Patrick Emmenegger, **Matthias Haslberger**, Anna Wilson. **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
+  (Revise and Resubmit at *Sociology of Education*)
+<details>
+  <summary>Abstract</summary>
+
+Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. Consequently, VET policy initiatives have proliferated in recent years. However, little is known about the factors influencing the choice between VET and general education. In this study, we examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. Respondents were asked to assign fictitious 15-year-olds to either VET or general education based on achieved (performance in school and motivation) and ascribed characteristics (sociodemographic variables). Our findings show that respondents recommend students with low grades and little motivation to pursue VET. These effects weaken, but do not disappear, among respondents who favor VET in terms of future labor market outcomes. Additionally, we find that boys, working-class students, and students from outside big cities are advised to pursue VET. However, the effect of achievement is more important than the effect of ascription. These patterns are consistent across countries and subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral in which the relative unattractiveness of VET and academic drift reinforce each other.
+</details>
+<p> </p>
+
+
+**Matthias Haslberger**, Jane Gingrich, Jasmine Bhatia. **No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market** \
+  (Under Review) \
+  [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466){: .button}{:target="_blank"}
+<details>
+  <summary>Abstract</summary>
+
+An emerging consensus holds that generative artificial intelligence (AI) equalizes workers’ performance within tasks, reducing productivity differences across workers. Existing research has largely studied productivity within single occupational groups and task structures. Whether this equalizing pattern generalizes to the labor market at large remains unclear. Observed performance equalization within groups of workers is compatible with both increasing and decreasing inequality between groups. To distinguish these outcomes, we conducted a large pre-registered online experiment with a sample of the UK working age population which randomly assigned participants to treatments that encouraged or discouraged the use of ChatGPT and then asked them to complete a set of realistic work tasks. We find that ChatGPT use increased productivity in all tasks, with greater benefits observed in more complex and less ambiguous tasks. However, compression effects between tasks were limited. Moreover, ChatGPT use did not affect productivity differentials between gender, age, educational or occupational groups.
+</details>
+<p> </p>
+
+
+**Matthias Haslberger**, Mads Elkjaer, Ben Ansell. **Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information** \
+  (Under Review)
 <details>
   <summary>Abstract</summary>
     
