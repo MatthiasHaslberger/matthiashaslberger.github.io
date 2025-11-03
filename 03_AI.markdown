@@ -4,5 +4,5 @@ title: 'Politics of AI'
 permalink: /ai/
 ---
 
-<a href="/Schedule_public.pdf" target="_blank">Workshop Schedule</a>
+You can find the schedule for the Politics of AI workshop at Nuffield College on 13/14 November 2025 <a href="/Schedule_public.pdf" target="_blank">here.</a>
 
