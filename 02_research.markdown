@@ -112,7 +112,7 @@ Vocational education and training (VET) has been hailed as a way to address skil
 
 
 **Matthias Haslberger**, Jane Gingrich, Jasmine Bhatia. **No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market** \
-  (Under Review) \
+  (Invited to Resubmite at *Research Policy*) \
   [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
