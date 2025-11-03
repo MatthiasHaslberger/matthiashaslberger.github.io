@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+d# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -36,7 +36,7 @@ nav_ext_links:
   - name: CV
     url: https://matthiashaslberger.github.io/Academic_CV.pdf
   - name: Politics of AI
-    url: https://matthiashaslberger.github.io/CfP_SI__Politics_of_AI.pdf
+    url: https://matthiashaslberger.github.io/Schedule_public.pdf
 
 # Build settings
 # theme: academic
