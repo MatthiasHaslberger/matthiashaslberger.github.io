@@ -11,6 +11,15 @@ permalink: /research/
 <p> </p>
 
 
+**Matthias Haslberger**, Mads Elkjaer, Ben Ansell. **[Homeownership and Political Efficacy: How Housing Wealth Shapes Whether People Feel Heard](https://drive.google.com/file/d/1jWCLDYZFgrcBenApjHMs49qgy6_1r4G1/view?usp=sharing){: target="_blank" rel="noopener"}**. Forthcoming in *West European Politics.* 
+<details>
+  <summary>Abstract</summary>
+    
+Why do some citizens feel that political institutions are responsive to people like them, while others do not? Existing research highlights the role of education and income in shaping external political efficacy, but little is known about the role of wealth. We argue that homeownership serves as a key marker of economic and social success, shaping perceptions of political inclusion, particularly in later life. While younger renters may still aspire to homeownership, older renters are more likely to confront the realisation that they will never make it onto the property ladder, undermining their efficacy. We test this argument using original survey data from over 10,000 adults in the United Kingdom. Our findings show that homeownership is positively associated with external political efficacy, particularly among older individuals. These results underscore housing wealth as a critical driver of political inclusion and highlight its broader implications for democratic legitimacy in unequal societies.
+</details>
+<p> </p> 
+
+
 **Matthias Haslberger**, Jane Gingrich, Jasmine Bhatia. 2025. **[Rage Against the Machine? Generative AI Exposure, Subjective Risk, and Policy Preferences](https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2554903){: target="_blank" rel="noopener"}**. *Journal of European Public Policy.* \
   [Replication Data](https://doi.org/10.7910/DVN/YOSGEL){: .button}{:target="_blank"}
 <details>
@@ -89,16 +98,6 @@ This article deals with a central paradox in the occupational polarisation liter
 How does technological change affect social policy preferences? We advance this lively debate by focusing on the role of dual vocational education and training (VET). Existing literature would lead us to expect that dual VET increases demand for compensatory social policy and magnifies the effect of automation risk on such demands. In contrast, we contend that dual VET weakens demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) material self-interest; (ii) workplace socialization; and (iii) skill certification. We further hypothesize that dual VET mitigates the effect of automation risk on social policy preferences. Analyzing cross-national individual data from the European Social Survey and national-level data on education systems, we find strong evidence for our argument. The paper advances the debate on social policy preferences in the age of automation and sheds new light on the relationship between skill specificity and social policy preferences.
 </details>  
 <p> </p>
-
-
-**Matthias Haslberger**, Mads Elkjaer, Ben Ansell. **Homeownership and Political Efficacy: How Housing Wealth Shapes Whether People Feel Heard** \
-  (Revise and Resubmit at *West European Politics*) 
-<details>
-  <summary>Abstract</summary>
-    
-Why do some citizens feel that political institutions are responsive to people like them, while others do not? Existing research highlights the role of education and income in shaping external political efficacy, but little is known about the role of wealth. We argue that homeownership serves as a key marker of economic and social success, shaping perceptions of political inclusion, particularly in later life. While younger renters may still aspire to homeownership, older renters are more likely to confront the realization that they will never make it onto the property ladder, undermining their efficacy. We test this argument using original survey data from over 10,000 adults in the United Kingdom. Our findings show that homeownership is positively associated with external political efficacy, particularly among older individuals. These results underscore housing wealth as a critical driver of political inclusion and highlight its broader implications for democratic legitimacy in unequal societies.
-</details>
-<p> </p> 
 
 
 Patrick Emmenegger, **Matthias Haslberger**, Anna Wilson. **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
