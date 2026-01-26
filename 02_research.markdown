@@ -11,7 +11,7 @@ permalink: /research/
 <p> </p>
 
 
-**Matthias Haslberger**, Mads Elkjaer, Ben Ansell. **[Homeownership and Political Efficacy: How Housing Wealth Shapes Whether People Feel Heard](https://drive.google.com/file/d/1jWCLDYZFgrcBenApjHMs49qgy6_1r4G1/view?usp=sharing){: target="_blank" rel="noopener"}**. Forthcoming in *West European Politics.* 
+**Matthias Haslberger**, Mads Elkjær, Ben Ansell. 2026. **[Homeownership and Political Efficacy: How Housing Wealth Shapes Whether People Feel Heard](https://doi.org/10.1080/01402382.2026.2616109){: target="_blank" rel="noopener"}**. *West European Politics.* 
 <details>
   <summary>Abstract</summary>
     
@@ -48,7 +48,7 @@ Education equips individuals with valuable skills to protect them against employ
 <p> </p>
 
 
-Mads Elkjaer, Ben Ansell, Laure Bokobza, Asli Cansunar, **Matthias Haslberger**, Jacob Nyrup. 2025 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464){: target="_blank" rel="noopener"}**, *World Politcs* 77(3), 515-561. \
+Mads Elkjær, Ben Ansell, Laure Bokobza, Asli Cansunar, **Matthias Haslberger**, Jacob Nyrup. 2025 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464){: target="_blank" rel="noopener"}**, *World Politcs* 77(3), 515-561. \
   [Replication Data](https://doi.org/10.7910/DVN/L6HYCL){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -121,7 +121,7 @@ An emerging consensus holds that generative artificial intelligence (AI) equaliz
 <p> </p>
 
 
-**Matthias Haslberger**, Mads Elkjaer, Ben Ansell. **Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information** \
+**Matthias Haslberger**, Mads Elkjær, Ben Ansell. **Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information** \
   (Under Review)
 <details>
   <summary>Abstract</summary>
@@ -149,15 +149,19 @@ Practical learning from experts is key to the mastery of almost any job. It cons
 
 
 **The New Politics of Artificial Intelligence** \
-(with Shir Raviv)
+(with Thomas Kurer, Aina Gallego, and Nicole Wu)
+
+
+**VET Systems and Skills' Accumulation** \
+(with Patrick Emmenegger)
 
 
 **Perceptions of Inequality in Europe** \
-(with Mads Elkjaer)
+(with Mads Elkjær)
 
 
 **Housing Wealth and Tax Mix Preferences** \
-(with Mads Elkjaer)
+(with Mads Elkjær)
 
 
 ### Book Reviews
