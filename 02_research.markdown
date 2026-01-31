@@ -11,6 +11,16 @@ permalink: /research/
 <p> </p>
 
 
+Patrick Emmenegger, **Matthias Haslberger**, Anna Wilson. **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
+  Forthcoming in *Sociology of Education.*
+<details>
+  <summary>Abstract</summary>
+
+Vocational education and training (VET) is hailed for easing skill shortages and fostering inclusion. However, little is known about the factors influencing the choice between VET and general education. We conducted a vignette experiment with over 11,500 respondents in seven European countries, asking them to assign fictitious 15-year-olds either to VET or general education based on achievement, motiva- tion and sociodemographic profiles. Respondents consistently channelled students with low grades and motivation into VET. This bias weakened, but persisted, among respondents who view VET as offering favorable labor-market prospects. Boys, working-class youth and adolescents outside large cities were also steered towards VET, although achievement effects outweighed ascriptive ones. These patterns hold across countries and respondent subgroups, indicating that VET is widely perceived as the less desirable educational pathway. Our findings suggest that VET is caught in a downward spiral in which the relative unattractiveness of VET and academic drift reinforce each other.
+</details>
+<p> </p>
+
+
 **Matthias Haslberger**, Mads Elkjær, Ben Ansell. 2026. **[Homeownership and Political Efficacy: How Housing Wealth Shapes Whether People Feel Heard](https://doi.org/10.1080/01402382.2026.2616109){: target="_blank" rel="noopener"}**. *West European Politics.* 
 <details>
   <summary>Abstract</summary>
@@ -100,16 +110,6 @@ How does technological change affect social policy preferences? We advance this 
 <p> </p>
 
 
-Patrick Emmenegger, **Matthias Haslberger**, Anna Wilson. **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
-  (Revise and Resubmit at *Sociology of Education*)
-<details>
-  <summary>Abstract</summary>
-
-Vocational education and training (VET) has been hailed as a way to address skills shortages and facilitate social inclusion. Consequently, VET policy initiatives have proliferated in recent years. However, little is known about the factors influencing the choice between VET and general education. In this study, we examine the attractiveness of VET in seven European countries using a vignette experiment with over 11,000 respondents. Respondents were asked to assign fictitious 15-year-olds to either VET or general education based on achieved (performance in school and motivation) and ascribed characteristics (sociodemographic variables). Our findings show that respondents recommend students with low grades and little motivation to pursue VET. These effects weaken, but do not disappear, among respondents who favor VET in terms of future labor market outcomes. Additionally, we find that boys, working-class students, and students from outside big cities are advised to pursue VET. However, the effect of achievement is more important than the effect of ascription. These patterns are consistent across countries and subgroups, suggesting that VET is widely perceived as the less attractive choice. Our findings suggest that VET is caught in a downward spiral in which the relative unattractiveness of VET and academic drift reinforce each other.
-</details>
-<p> </p>
-
-
 **Matthias Haslberger**, Jane Gingrich, Jasmine Bhatia. **No Great Equalizer: Experimental Evidence on Productivity Effects of Generative AI Use in the UK Labor Market** \
   (Invited to Resubmit at *Research Policy*) \
   [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594466){: .button}{:target="_blank"}
@@ -121,12 +121,12 @@ An emerging consensus holds that generative artificial intelligence (AI) equaliz
 <p> </p>
 
 
-**Matthias Haslberger**, Mads Elkjær, Ben Ansell. **Wealth Tax Preferences in an Age of Inequality: The Role of Housing and Information** \
+**Matthias Haslberger**, Mads Elkjær, Ben Ansell. **The Electoral Politics of Wealth Taxation: Housing, Information, and Public Opinion** \
   (Under Review)
 <details>
   <summary>Abstract</summary>
     
-Despite high and rising levels of wealth inequality, wealth taxes have been reduced in many countries. While existing explanations focus on structural factors, we argue that public opposition to wealth taxes among homeowners has contributed to creating a political playing field that facilitates low wealth taxes. This opposition is aided by  information asymmetries, which prevent low-wealth renters from formulating preferences that align with their material self-interest. Utilizing original survey data from Denmark, France, Germany, Ireland, Italy, the Netherlands, and Sweden, we find empirical support for our thesis. Housing wealth increases the likelihood of stating a preference on wealth taxation, and homeowners and their children support less progressive taxation of inheritances, wealth, and capital gains. The paper helps us understand why, despite pronounced inequality in asset ownership, wealth taxation has fallen out of favor among democratically elected governments.
+Despite rising wealth inequality and mounting fiscal pressures, governments have largely refrained from raising taxes on wealth. We argue that a key reason is opposition to wealth taxes among homeowners, which has contributed to a political environment where stronger taxation of wealth is electorally challenging to implement. This dynamic is exacerbated by information asymmetries, which prevent low-wealth renters from formulating preferences aligned with their material self-interest, effectively handing the political initiative to homeowners. Utilizing original survey data from Denmark, France, Germany, Ireland, Italy, the Netherlands, and Sweden, we find empirical support for the argument. Housing wealth increases the likelihood of stating a preference on wealth taxation, and homeowners and their children oppose more progressive taxation of inheritances, net wealth, and capital gains. These findings help explain why, despite pronounced inequality in asset ownership and severe budgetary pressures, wealth taxation remains underutilized in advanced democracies.
 </details>
 <p> </p>
 
