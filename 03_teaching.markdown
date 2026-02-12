@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 'Politics of AI'
+title: 'Teaching'
 menu: main
-permalink: /ai/
+permalink: /teaching/
 ---
 
 ## Teaching
