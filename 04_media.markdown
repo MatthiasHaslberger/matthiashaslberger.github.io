@@ -19,6 +19,6 @@ I believe that research should not be confined to the ivory tower and regularly 
 
 [The Distributional Effects of Generative AI](https://www.youtube.com/watch?v=dWU1eb5k4kk&t=4s){:target="_blank"}, presentation at the LCSSP AI Workshop, Caltech.
 
-[Arbeit im Spannungsfeld von technologischem Wandel und Arbeitsmarktsituationen](https://www.youtube.com/watch?v=2ooeKaaobxI){:target="_blank"}, presentation at the Themenwoche "Arbeit bleibt | Technik hilft", Bundesinstitut für Berufsbildung, Bonn.
+[Arbeit im Spannungsfeld von technologischem Wandel und Arbeitsmarktsituationen](https://www.youtube.com/watch?v=2ooeKaaobxI){:target="_blank"}, presentation at the Themenwoche "Arbeit bleibt - Technik hilft", Bundesinstitut für Berufsbildung, Bonn.
 
 [No “Jamaica” for Germany – The Takeaways](https://barnetthouseblog.wixsite.com/tbhb/single-post/jamaica-coalition-germany){:target="_blank"}, for The Barnett House Blog.
