@@ -144,6 +144,14 @@ Practical learning from experts is key to the mastery of almost any job. It cons
 <p> </p>
 
 
+**Artificial Intelligence, Voice at Work, and Politics** 
+<details>
+  <summary>Abstract</summary>
+
+Artificial intelligence (AI) is reshaping work and politics in myriad ways. The emerging literature on the politics of AI focuses largely on the direct effects of exposure to AI on expectations, political preferences, and behavior. I argue that this risks ignoring a key site of political preference formation: the workplace (Kitschelt and Rehm 2014). To what extent individuals have a say in how their work is organized and how new technologies are implemented is likely to shape their political reaction to the proliferation of AI. This chapter first summarizes the current literature on AI and politics before theorizing how voice at work shapes individuals’ political reactions to AI exposure and testing the hypothesized associations using original survey data from the United States and the United Kingdom.
+</details>
+<p></p>
+
 **Social Protection in the Age of Artificial Intelligence: How Do People Reason?** \
 (with Jasmine Bhatia, Patrick Emmenegger, and Jane Gingrich)
 
