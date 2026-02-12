@@ -5,5 +5,7 @@ menu: main
 permalink: /ai/
 ---
 
+My current research focuses primarily on the politics of AI. Questions I am interested in include: How is AI different from previous waves of technological change? How do workers reason about the implications of AI technology for their livelihoods and appropriate policy responses? Which strategies do firms adopt to secure their future skill needs? To bring together researchers working on these and related questions, I regularly organise panels at major conferences (e.g., APSA, EPSA, SASE). In November 2025, I organised a 2-day workshop at Nuffield College, Oxford, based on which I am currently editing a special issue.
+
 You can find the schedule for the Politics of AI workshop at Nuffield College on 13/14 November 2025 <a href="/Schedule_public.pdf" target="_blank">here.</a>
 
