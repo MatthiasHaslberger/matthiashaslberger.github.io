@@ -11,11 +11,15 @@ I believe that research should not be confined to the ivory tower and regularly 
 
 ### Media Coverage
 
+[Social Protection in the Age of AI](https://sk.sagepub.com/video/social-protection-in-the-age-of-ai){:target="_blank"}, interview with Sage Video about my work on AI.
+
 [Mind the Gap](https://wpj.princeton.edu/storied-teller/2025/mind-the-gap){:target="_blank"}, conversation with The Storied Teller about my *Counteracting Wealth Inequality* paper.
 
 [Verändert Künstliche Intelligenz die Erwartungen an Politik und Regierung?](https://www.unisg.ch/de/newsroom/veraendert-kuenstliche-intelligenz-die-erwartungen-an-politik-und-regierung/){:target="_blank"}, coverage by HSG Newsroom of my *Rage Against the Machine* paper.
 
 ### Blog Posts and Presentations
+
+[The surprising sociotropic effects of generative AI exposure on social policy preferences](https://www.defacto.expert/2026/02/18/the-surprising-sociotropic-effects-of-generative-ai-exposure-on-social-policy-preferences/?lang=en){:target="_blank"}, for DeFacto.
 
 [The Distributional Effects of Generative AI](https://www.youtube.com/watch?v=dWU1eb5k4kk&t=4s){:target="_blank"}, presentation at the LCSSP AI Workshop, Caltech.
 
