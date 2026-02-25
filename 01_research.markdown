@@ -12,7 +12,7 @@ permalink: /research/
 
 
 **Matthias Haslberger**, Patrick Emmenegger, Niccolo Durazzi. **The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
-  (Forthcoming in *British Journal of Political Science*)
+  Forthcoming in *British Journal of Political Science.*
 <details>
   <summary>Abstract</summary>
     
