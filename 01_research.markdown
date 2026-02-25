@@ -11,6 +11,16 @@ permalink: /research/
 <p> </p>
 
 
+**Matthias Haslberger**, Patrick Emmenegger, Niccolo Durazzi. **The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
+  (Forthcoming in *British Journal of Political Science*)
+<details>
+  <summary>Abstract</summary>
+    
+How does technological change affect social policy preferences? We advance this lively debate by focusing on the role of dual vocational education and training (VET). Existing literature would lead us to expect that dual VET increases demand for compensatory social policy and magnifies the effect of automation risk on such demands. In contrast, we contend that dual VET weakens demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) material self-interest; (ii) workplace socialization; and (iii) skill certification. We further hypothesize that dual VET mitigates the effect of automation risk on social policy preferences. Analyzing cross-national individual data from the European Social Survey and national-level data on education systems, we find strong evidence for our argument. The paper advances the debate on social policy preferences in the age of automation and sheds new light on the relationship between skill specificity and social policy preferences.
+</details>  
+<p> </p>
+
+
 Patrick Emmenegger, **Matthias Haslberger**, Anna Wilson. **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
   Forthcoming in *Sociology of Education.*
 <details>
@@ -97,16 +107,6 @@ This article deals with a central paradox in the occupational polarisation liter
 
 
 ### Papers under Review
-<p> </p>
-
-
-**Matthias Haslberger**, Patrick Emmenegger, Niccolo Durazzi. **The Missing Link: Technological Change, Dual VET, and Social Policy Preferences** \
-  (Revise and Resubmit at *British Journal of Political Science*)
-<details>
-  <summary>Abstract</summary>
-    
-How does technological change affect social policy preferences? We advance this lively debate by focusing on the role of dual vocational education and training (VET). Existing literature would lead us to expect that dual VET increases demand for compensatory social policy and magnifies the effect of automation risk on such demands. In contrast, we contend that dual VET weakens demand for compensatory social policy through three non-mutually exclusive mechanisms that we refer to as (i) material self-interest; (ii) workplace socialization; and (iii) skill certification. We further hypothesize that dual VET mitigates the effect of automation risk on social policy preferences. Analyzing cross-national individual data from the European Social Survey and national-level data on education systems, we find strong evidence for our argument. The paper advances the debate on social policy preferences in the age of automation and sheds new light on the relationship between skill specificity and social policy preferences.
-</details>  
 <p> </p>
 
 
