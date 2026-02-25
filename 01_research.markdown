@@ -176,4 +176,4 @@ Artificial intelligence (AI) is reshaping work and politics in myriad ways. The 
 <p> </p>
 
 
-Neil Lee. 2024. **[Innovation for the masses: How to share the benefits of the high‐tech economy](https://onlinelibrary.wiley.com/doi/full/10.1111/spol.13062){: target="_blank" rel="noopener"}**. Reviewed for Social Policy & Administration. 
+Neil Lee. 2024. **[Innovation for the masses: How to share the benefits of the high‐tech economy](https://onlinelibrary.wiley.com/doi/full/10.1111/spol.13062){: target="_blank" rel="noopener"}**. Reviewed for *Social Policy & Administration*. 
