@@ -49,7 +49,7 @@ How does novel technology change public policy demands? Scholars interested in t
 <p> </p>
 
 
-Patrick Emmenegger, **Matthias Haslberger**. 2025. **[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494){: target="_blank" rel="noopener"}**, *Journal of European Social Policy.* \
+Patrick Emmenegger, **Matthias Haslberger**. 2026. **[Yesterday's Model for Tomorrow's Economy? Dual VET and Wage Inequality in the Knowledge Economy](https://journals.sagepub.com/doi/10.1177/09589287251370494){: target="_blank" rel="noopener"}**, *Journal of European Social Policy* 36(2):185--198. \
   [Dual VET Dataset](https://doi.org/10.7910/DVN/DG7PB9){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -58,7 +58,7 @@ Dual vocational education and training (VET) is said to have positive economic e
 </details>
 <p> </p>
 
-**Matthias Haslberger**, Scherwin M. Bajka. 2025. **[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067){: target="_blank" rel="noopener"}**, *Regulation & Governance.* 
+**Matthias Haslberger**, Scherwin M. Bajka. 2026. **[Subjective Technology Risk and Education Preferences: VET as a Safe Haven or Dead End?](https://onlinelibrary.wiley.com/doi/10.1111/rego.70067){: target="_blank" rel="noopener"}**, *Regulation & Governance* 20(2):621--634. 
 <details>
   <summary>Abstract</summary>
     
@@ -67,7 +67,7 @@ Education equips individuals with valuable skills to protect them against employ
 <p> </p>
 
 
-Mads Elkjær, Ben Ansell, Laure Bokobza, Asli Cansunar, **Matthias Haslberger**, Jacob Nyrup. 2025 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464){: target="_blank" rel="noopener"}**, *World Politcs* 77(3), 515-561. \
+Mads Elkjær, Ben Ansell, Laure Bokobza, Asli Cansunar, **Matthias Haslberger**, Jacob Nyrup. 2025 **[Why Is It So Hard to Counteract Wealth Inequality? Evidence from the United Kingdom](https://doi.org/10.1353/wp.2025.a964464){: target="_blank" rel="noopener"}**, *World Politcs* 77(3):515--561. \
   [Replication Data](https://doi.org/10.7910/DVN/L6HYCL){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
@@ -77,7 +77,7 @@ It has long been established that education and income affect people's political
 <p> </p> 
 
 
-Anja Giudici, Jane Gingrich, Tom Chevalier, **Matthias Haslberger**. 2023. **[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186){: target="_blank" rel="noopener"}**, *Comparative Politics* 55(2), 193-218. 
+Anja Giudici, Jane Gingrich, Tom Chevalier, **Matthias Haslberger**. 2023. **[Center-right Parties and Post-War Secondary Education](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186){: target="_blank" rel="noopener"}**, *Comparative Politics* 55(2):193--218. 
 <details>
   <summary>Abstract</summary>
   
@@ -86,7 +86,7 @@ The massification of secondary schooling constitutes the key educational project
 <p> </p>  
 
 
-**Matthias Haslberger**. 2022. **[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095){: target="_blank" rel="noopener"}**, *The Economic and Labour Relations Review* 33(1), 178-199. \
+**Matthias Haslberger**. 2022. **[Rethinking the measurement of occupational task content](https://doi.org/10.1177/10353046211037095){: target="_blank" rel="noopener"}**, *The Economic and Labour Relations Review* 33(1):178--199. \
 [Replication Data](https://doi.org/10.7910/DVN/JABYD7){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
