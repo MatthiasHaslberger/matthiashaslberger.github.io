@@ -11,7 +11,8 @@ permalink: /research/
 <p> </p>
 
 
-**Matthias Haslberger**, Patrick Emmenegger, Niccolo Durazzi. 2026. **[The Missing Link: Technological Change, Dual VET, and Social Policy Preferences](https://doi.org/10.1017/S0007123426101446){: target="_blank" rel="noopener"}** *British Journal of Political Science.*
+**Matthias Haslberger**, Patrick Emmenegger, Niccolo Durazzi. 2026. **[The Missing Link: Technological Change, Dual VET, and Social Policy Preferences](https://doi.org/10.1017/S0007123426101446){: target="_blank" rel="noopener"}** *British Journal of Political Science.*\
+[Replication Data](https://doi.org/10.7910/DVN/QPU5ZH){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
     
@@ -20,8 +21,7 @@ How does technological change affect social policy preferences? We advance this 
 <p> </p>
 
 
-Patrick Emmenegger, **Matthias Haslberger**, Anna Wilson. **Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training** \
-  Forthcoming in *Sociology of Education.*
+Patrick Emmenegger, **Matthias Haslberger**, Anna Wilson. 2026. **[Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training](https://doi.org/10.1177/00380407261440275){: target="_blank" rel="noopener"}** *Sociology of Education.*
 <details>
   <summary>Abstract</summary>
 
