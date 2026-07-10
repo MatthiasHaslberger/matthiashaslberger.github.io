@@ -23,7 +23,7 @@ My research asks how structural economic change reshapes democratic politics &md
 
 ## AI and the Future of Work {#ai}
 
-Technological change runs through everything I do. I first worked on measurement: how to capture what workers actually do on the job, and why automation polarises employment in some countries but upgrades it in others. Generative AI has sharpened these questions &mdash; it reaches into cognitive work, spreads faster than institutions adapt, and is experienced first-hand by millions &mdash; and shifted my focus from labour-market outcomes to political ones. My current work asks what AI actually does to productivity and inequality, how the experience of working with it reshapes what people want from the state, and how firms weigh short-term automation gains against training the next generation of workers. Beyond my own papers, I invest in building this emerging field: I convene panels at major conferences (APSA, EPSA, SASE), organised a two-day [Politics of AI workshop](/Schedule_public.pdf){:target="_blank"} at Nuffield College in November 2025, and am editing a special issue based on it.
+Technological change runs through everything I do. I first worked on measurement: how to capture what workers actually do on the job, and why automation polarises employment in some countries but upgrades it in others. Generative AI has sharpened these questions &mdash; it reaches into cognitive work, spreads faster than institutions adapt, and is experienced first-hand by millions &mdash; and shifted my focus from labour-market outcomes to political ones. My current work asks what AI actually does to productivity and inequality, how the experience of working with it reshapes what people want from the state, and how firms weigh short-term automation gains against training the next generation of workers. Beyond my own papers, I invest in building this emerging field: I convene panels at major conferences (APSA, EPSA, SASE), organised a two-day [Politics of AI workshop](/Schedule_public.pdf){:target="_blank"} at Nuffield College in November 2025, and am editing a special issue on the topic in *Comparative Political Studies*.
 
 ### Publications
 <p> </p>
@@ -90,13 +90,41 @@ Artificial intelligence (AI) is reshaping work and politics in myriad ways. The 
 </details>
 <p></p>
 
-**Social Protection in the Age of Artificial Intelligence: How Do People Reason?** \
+**Who Goes for Growth? Personality and Policy Priorities in the AI Economy** \
 (with Jasmine Bhatia, Patrick Emmenegger, and Jane Gingrich)
+<details>
+  <summary>Abstract</summary>
 
+Artificial intelligence is likely to generate substantial economic gains while distributing them unevenly. How do citizens navigate the resulting tension between growth and equality? We examine whether policy priorities in the AI economy depend on individuals’ likely exposure to AI and their personality. Using a representative US survey of 5,000 working-age adults, we combine Big Five personality measures and a behavioral measure of risk orientation with a highly personalized information treatment identifying respondents as likely winners or losers from AI. Contrary to preregistered expectations, we find largely sociotropic responses: likely winners shift toward prioritizing equality, while likely losers shift toward growth. Among losers, this shift is concentrated among respondents who are surprised by and find the treatment credible. Personality strongly structures baseline policy priorities, but generally does not moderate responses to personalized AI risk. Behavioral risk orientation is the main exception. The findings highlight a tension between stable psychological predispositions and dynamic responses to technological change. 
+</details>
+<p></p>
+
+**Cognitive Traits and Expectations of AI's Effects** \
+(with Jasmine Bhatia, Patrick Emmenegger, and Jane Gingrich)
+<details>
+  <summary>Abstract</summary>
+
+Who does the public expect to win and lose from generative AI? Using a survey of 5,000 employed Americans, we show that expectations are sharply stratified: the rich and highly educated are expected to benefit, while the poor, less educated, and older workers are expected to lose. Group members sometimes diverge strikingly from outside observers — young people rate their own generation's prospects far more pessimistically than others do, while high-income respondents are more optimistic about the rich. Because reactions to technological change are fundamentally reactions to uncertainty, we theorize that personality traits — as markers of risk orientation, optimism, and soft skills — shape these expectations alongside demographics. They do: extraverted and agreeable respondents expect groups across society to fare better, while neurotic and open respondents expect worse, holding demographics constant. Expectations about AI's distributive consequences are strongly personality-laden.
+</details>
+<p></p>
 
 **The New Politics of Artificial Intelligence** \
 (with Thomas Kurer, Aina Gallego, and Nicole Wu)
-<p> </p>
+<details>
+  <summary>Abstract</summary>
+
+In this introductory paper for the *Comparative Political Studies* special issue, we argue that the proliferation of AI creates a new politics that differs fundamentally from the routine-biased technological change (RBTC) paradigm of recent decades. We identify three main shifts: 1) AI creates new winners and losers, who are endowed with different power resources; 2) the political demands of these groups so far do not align with the populist response of the losers from RBTC; 3) the governance of AI is highly politically salient at an early stage before dramatic labour market effects have materialised, potentially opening a window of opportunity for proactive policy reform. We highlight the substantive implications of this paradigm shift, as well as the new challenges and opportunities this creates for political science research.
+</details>
+<p></p>
+
+
+**Obtaining Validated and Nuanced Occupational Information in Online Surveys**
+<details>
+  <summary>Abstract</summary>
+
+Online surveys often collect only coarse or imprecise occupational information from respondents, limiting the scope of possible analyses. I introduce a novel AI-assisted protocol that allows researchers to collect detailed information on occupational titles and core tasks and dynamically validate it directly in the survey. I benchmark the approach against existing procedures and show that for trivial cost, researchers can obtain much more nuanced occupational information.
+</details>
+<p></p>
 
 ## Education and Skill Formation {#education}
 
@@ -157,8 +185,13 @@ The massification of secondary schooling constitutes the key educational project
 <p> </p>
 
 
-**VET Systems and Skills' Accumulation** \
+**VET Systems and Socio-Economic Outcomes** \
 (with Patrick Emmenegger)
+<details>
+  <summary>Abstract</summary>
+  
+This chapter examines the effects of vocational education and training (VET) systems on socio-economic outcomes. VET plays a prominent role in most European education systems, often enrolling more than half of a cohort at the upper-secondary level. The chapter reviews and synthesizes existing evidence on the effects of VET across five socio-economic outcomes, drawing on both micro-level and macro-level research. These outcomes are: (i) educational inequality and stratification, (ii) earnings inequality, (iii) employment levels and type of employment, (iv) (youth) unemployment rates, and (v) the potential of VET for social integration. Across these domains, we pay particular attention to distributional effects that cut across these five socio-economic outcomes, especially with regard to gender and migration background. We synthesize evidence from different social science disciplines, as social policy, political science, sociology, and economics all highlight different socio-economic outcomes of VET systems. Overall, we find that VET systems have important effects on socio-economic outcomes, although these effects vary markedly across institutional designs---most notably between fully school-based and dual VET systems.
+</details>
 <p> </p>
 
 ## Wealth and Housing {#wealth}
