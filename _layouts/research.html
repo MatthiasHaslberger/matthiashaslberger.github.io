@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class="research-wrapper">
+  <nav class="research-toc" aria-label="Research areas">
+    <span class="research-toc-title">On this page</span>
+    <ul>
+      {% for section in page.sections %}
+      <li><a href="#{{ section.anchor }}">{{ section.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <article class="research-content">
+    {{ content }}
+  </article>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var links = Array.prototype.slice.call(
+      document.querySelectorAll('.research-toc a[href^="#"]')
+    );
+    var targets = links
+      .map(function (link) {
+        return document.getElementById(link.getAttribute('href').slice(1));
+      })
+      .filter(Boolean);
+    if (targets.length === 0) return;
+
+    function highlight() {
+      var current = targets[0].id;
+      targets.forEach(function (target) {
+        if (target.getBoundingClientRect().top <= 150) current = target.id;
+      });
+      var atBottom = window.innerHeight + window.scrollY >=
+        document.documentElement.scrollHeight - 8;
+      if (atBottom) current = targets[targets.length - 1].id;
+      links.forEach(function (link) {
+        link.parentElement.classList.toggle(
+          'active',
+          link.getAttribute('href') === '#' + current
+        );
+      });
+    }
+
+    var ticking = false;
+    window.addEventListener('scroll', function () {
+      if (!ticking) {
+        window.requestAnimationFrame(function () {
+          highlight();
+          ticking = false;
+        });
+        ticking = true;
+      }
+    }, { passive: true });
+    highlight();
+  });
+</script>
