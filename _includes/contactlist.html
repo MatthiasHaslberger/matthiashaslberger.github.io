@@ -10,6 +10,12 @@
   </li>
   {% endif %}
 
+  {% if site.bluesky_username %}
+  <li>
+    {% include _icons/bluesky.html username=site.bluesky_username %}
+  </li>
+  {% endif %}
+
   {% if site.googlescholar_link %}
   <li>
     {% include _icons/googlescholar.html link=site.googlescholar_link %}

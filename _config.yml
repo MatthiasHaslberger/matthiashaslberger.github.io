@@ -21,10 +21,14 @@
 title: Matthias Haslberger
 email: matthias.haslberger@unisg.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoctoral Researcher at the University of St. Gallen
+  Political economist studying AI and the future of work, education and skill
+  formation, and the politics of wealth and housing. Postdoctoral Researcher at
+  the University of St. Gallen and John F. Kennedy Memorial Fellow at Harvard
+  (2026-27).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matt_haslberger
+bluesky_username: mhaslberger.bsky.social
 github_username:  matthiashaslberger
 linkedin_username: matthias-haslberger-16b944127
 linkedin_display_name: matthias-haslberger
@@ -37,6 +41,7 @@ uni_link: https://www.alexandria.unisg.ch/entities/person/Matthias_Haslberger/ot
 remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
