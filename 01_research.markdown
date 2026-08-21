@@ -226,7 +226,7 @@ It has long been established that education and income affect people's political
 
 
 **Matthias Haslberger**, Mads Elkjær, Ben Ansell. **The Electoral Politics of Wealth Taxation: Housing, Information, and Public Opinion** \
-  (Under Review)
+  (Revise and resubmit at *Socio-Economic Review*)
 <details>
   <summary>Abstract</summary>
 
