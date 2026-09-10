@@ -7,7 +7,7 @@ permalink: /media/
 
 ## Public Engagement
 
-I believe that research should not be confined to the ivory tower and regularly engage with policymakers, practitioners, and journalists. For media requests, please [email](mailto:matthias.haslberger@unisg.ch) me or contact me on [LinkedIn](https://www.linkedin.com/in/matthias-haslberger-16b944127/){:target="_blank"}. Below is some selected coverage of my work in the news media as well as blog posts and video presentations. 
+I believe that research should not be confined to the ivory tower and regularly engage with policymakers, practitioners, and journalists. For media requests, please [email](mailto:matthiashaslberger@fas.harvard.edu) me or contact me on [LinkedIn](https://www.linkedin.com/in/matthias-haslberger-16b944127/){:target="_blank"}. Below is some selected coverage of my work in the news media as well as blog posts and video presentations. 
 
 ### Media Coverage
 
