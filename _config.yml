@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Matthias Haslberger
-email: matthias.haslberger@unisg.ch
+email: matthiashaslberger@fas.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Political economist studying AI and the future of work, education and skill
-  formation, and the politics of wealth and housing. Postdoctoral Researcher at
-  the University of St. Gallen and John F. Kennedy Memorial Fellow at Harvard
-  (2026-27).
+  formation, and the politics of wealth and housing. John F. Kennedy Memorial
+  Fellow at the Minda de Gunzburg Center for European Studies, Harvard
+  University (2026-27).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matt_haslberger
@@ -34,7 +34,8 @@ linkedin_username: matthias-haslberger-16b944127
 linkedin_display_name: matthias-haslberger
 author_display: true
 googlescholar_link: https://scholar.google.com/citations?user=VT1o_zkAAAAJ&hl=de
-uni_link: https://www.alexandria.unisg.ch/entities/person/Matthias_Haslberger/otherInfo
+uni_link: https://ces.fas.harvard.edu/opportunities/visiting-scholars/visiting-scholars-2026-2027
+uni_display_name: Center for European Studies
 
 # Build settings
 # theme: academic
