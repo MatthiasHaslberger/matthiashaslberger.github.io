@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Matthias Haslberger">
+  <title>Matthias Haslberger</title>
+  <rect width="64" height="64" rx="14" fill="#FDFDFD"/>
+  <rect x="1.25" y="1.25" width="61.5" height="61.5" rx="12.9" fill="none" stroke="#489AE5" stroke-width="2.5"/>
+  <path d="M20,15 L20,49 M44,15 L44,49 M20,32 L44,32" fill="none" stroke="#489AE5"
+        stroke-width="11" stroke-linecap="butt" stroke-linejoin="miter"/>
+</svg>
